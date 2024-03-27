@@ -1,0 +1,80 @@
+---- Minecraft Crash Report ----
+// Shall we play a game?
+
+Time: 26/03/24 22:58
+Description: Exception in server tick loop
+
+java.lang.ArrayIndexOutOfBoundsException: 31
+	at net.minecraftforge.common.BiomeDictionary.registerBiomeType(BiomeDictionary.java:152)
+	at enhancedbiomes.world.biometype.BiomeTypes.registerAllBiomeTypes(BiomeTypes.java:110)
+	at enhancedbiomes.EnhancedBiomesMod.load(EnhancedBiomesMod.java:145)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532)
+	at sun.reflect.GeneratedMethodAccessor3.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119)
+	at cpw.mods.fml.common.Loader.initializeMods(Loader.java:713)
+	at cpw.mods.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:97)
+	at cpw.mods.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:323)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:286)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:620)
+	at java.lang.Thread.run(Unknown Source)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.7.10
+	Operating System: Windows 11 (amd64) version 10.0
+	Java Version: 1.8.0_391, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 1723761936 bytes (1643 MB) / 2077753344 bytes (1981 MB) up to 4225236992 bytes (4029 MB)
+	JVM Flags: 6 total; -Xmx4G -Xms2G -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalPacing -XX:ParallelGCThreads=8 -XX:+AggressiveOpts
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP v9.05 FML v7.10.114.1388 Minecraft Forge 10.13.3.1403 18 mods loaded, 18 mods active
+	mcp{9.05} [Minecraft Coder Pack] (minecraft.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	FML{7.10.114.1388} [Forge Mod Loader] (kcauldron-1.7.10-4.1403.65-server.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	Forge{10.13.3.1403} [Minecraft Forge] (kcauldron-1.7.10-4.1403.65-server.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	appliedenergistics2-core{rv2-stable-10} [AppliedEnergistics2 Core] (minecraft.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	IC2{2.2.827-experimental} [IndustrialCraft 2] (industrialcraft-2-2.2.827-experimental.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	AdvancedSolarPanel{1.7.10-3.5.1} [Advanced Solar Panels] (AdvancedSolarPanel_1.7.10_Edition.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	appliedenergistics2{rv2-stable-10} [Applied Energistics 2] (appliedenergistics2-rv2-stable-10.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	BuildCraft|Core{7.1.25} [BuildCraft] (buildcraft-7.1.25.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	BuildCraft|Builders{7.1.25} [BC Builders] (buildcraft-7.1.25.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	BuildCraft|Robotics{7.1.25} [BC Robotics] (buildcraft-7.1.25.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	BuildCraft|Silicon{7.1.25} [BC Silicon] (buildcraft-7.1.25.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	BuildCraft|Energy{7.1.25} [BC Energy] (buildcraft-7.1.25.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	BuildCraft|Transport{7.1.25} [BC Transport] (buildcraft-7.1.25.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	BuildCraft|Factory{7.1.25} [BC Factory] (buildcraft-7.1.25.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	MoCreatures{6.3.1} [DrZhark's Mo'Creatures Mod] (DrZharks MoCreatures Mod v6.3.1.zip) Unloaded->Constructed->Pre-initialized->Initialized
+	EnergyAdditions{3.4.2_Stable} [EnergyAdditions] (EnergyAdditions_3.4.2.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	enhancedbiomes{2.3 for MC 1.7.10} [Enhanced Biomes] (Enhanced-Biomes-Mod-1.7.10.jar) Unloaded->Constructed->Pre-initialized->Errored
+	LogisticsPipes{0.9.3.132} [Logistics Pipes] (Logistics-Pipes-Mod-1.7.10.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	AE2 Version: stable rv2-stable-10 for Forge 10.13.2.1291
+	Profiler Position: N/A (disabled)
+	Player Count: 0 / 20; []
+	Is Modded: Definitely; Server brand changed to 'kcauldron,cauldron,craftbukkit,mcpc,fml,forge'
+	Type: Dedicated Server (map_server.txt)

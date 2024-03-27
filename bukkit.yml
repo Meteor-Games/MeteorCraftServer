@@ -61,3 +61,5 @@ world-settings:
     enabled: true
   nether:
     enabled: true
+  wyvernend:
+    enabled: true

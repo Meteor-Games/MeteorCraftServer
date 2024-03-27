@@ -18,27 +18,47 @@ messages:
   outdated-client: Outdated client! Please use {}
   outdated-server: Outdated server! I'm still on {0}
   restart: Server is restarting
-commands:
-  tab-complete: true
-  log: true
 stats:
   disable-saving: false
   forced-stats: {}
+commands:
+  tab-complete: true
+  log: true
 settings:
+  fullMatchRate: 10
   player-shuffle: 0
+  netty-threads: 4
   late-bind: false
   timeout-time: 90
   restart-on-crash: true
   restart-script: ./start.sh
-  fullMatchRate: 10
-  netty-threads: 4
   sample-count: 12
   bungeecord: false
 world-settings:
   default:
     verbose: false
-    mob-spawn-range: 4
-    nerf-spawner-mobs: false
+    max-entity-collisions: 8
+    enable-zombie-pigmen-portal-spawns: true
+    arrow-despawn-rate: 1200
+    chunks-per-tick: 650
+    clear-tick-list: false
+    zombie-aggressive-towards-villager: true
+    merge-radius:
+      item: 2.5
+      exp: 3.0
+    item-despawn-rate: 6000
+    save-structure-info: true
+    entity-activation-range:
+      animals: 32
+      monsters: 32
+      misc: 16
+    max-tick-time:
+      tile: 50
+      entity: 50
+    ticks-per:
+      hopper-transfer: 8
+      hopper-check: 8
+    max-bulk-chunks: 5
     anti-xray:
       enabled: true
       engine-mode: 1
@@ -67,33 +87,13 @@ world-settings:
       pumpkin-modifier: 100
       sapling-modifier: 100
       wheat-modifier: 100
-    save-structure-info: true
+    nerf-spawner-mobs: false
     random-light-updates: false
-    max-bulk-chunks: 5
-    max-tick-time:
-      tile: 50
-      entity: 50
-    entity-activation-range:
-      animals: 32
-      monsters: 32
-      misc: 16
-    ticks-per:
-      hopper-transfer: 8
-      hopper-check: 8
+    view-distance: 10
+    mob-spawn-range: 4
     entity-tracking-range:
       players: 48
       animals: 48
       monsters: 48
       misc: 32
       other: 64
-    merge-radius:
-      item: 2.5
-      exp: 3.0
-    item-despawn-rate: 6000
-    max-entity-collisions: 8
-    enable-zombie-pigmen-portal-spawns: true
-    zombie-aggressive-towards-villager: true
-    chunks-per-tick: 650
-    clear-tick-list: false
-    view-distance: 10
-    arrow-despawn-rate: 1200
