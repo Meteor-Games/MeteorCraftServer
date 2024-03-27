@@ -12,6 +12,8 @@
 # Setting: logging.connection Default: false   # Log connections
 # Setting: logging.tick-intervals Default: false   # Log when skip interval handlers are ticked
 # Setting: world-settings.default.flowing-lava-decay Default: false   # Lava behaves like vanilla water when source block is removed
+# Setting: logging.user-login Default: false   # Set true to enable debuggin user's login process
+# Setting: world-settings.default.allow-tnt-punishment Default: true   # TNT ability to push other entities (including other TNTs)
 # Setting: logging.dump-threads-on-warn Default: false   # Dump the the server thread on deadlock warning (delps to debug the deadlock)
 # Setting: logging.entity-speed-removal Default: false   # Whether to log entity removals due to speed
 # Setting: settings.check-entity-bounding-boxes Default: true   # Removes a living entity that exceeds the max bounding box size.
@@ -20,6 +22,7 @@
 # Setting: logging.world-leak-debug Default: false   # Log worlds that appear to be leaking (buggy)
 # Setting: logging.collision-warn-size Default: 200   # Number of colliding entities in one spot before logging a warning. Set to 0 to disable
 # Setting: logging.entity-count-warn-size Default: 0   # Number of entities in one dimension logging a warning. Set to 0 to disable
+# Setting: world-settings.max-players-visible Default: -1   # How many players will visible in the tab list
 # Setting: logging.entity-death Default: false   # Log when an entity is destroyed (dev)
 # Setting: logging.entity-despawn Default: false   # Log when living entities are despawned (dev)
 # Setting: logging.chunk-unload Default: false   # Log when chunks are unloaded (dev)
@@ -39,6 +42,7 @@ logging:
   entity-collision-checks: false
   connection: false
   tick-intervals: false
+  user-login: false
   dump-threads-on-warn: false
   entity-speed-removal: false
   disabled-warnings: false
@@ -63,16 +67,20 @@ settings:
 world-settings:
   default:
     flowing-lava-decay: false
+    allow-tnt-punishment: true
     infinite-water-source: true
     entity-despawn-immediate: false
-    worldgen-EnergyAdditions-EnergyOreGenerator: true
-    worldgen-TConstruct-TBaseWorldGenerator: true
-    worldgen-appliedenergistics2-MeteoriteWorldGen: true
     worldgen-Roguelike-DungeonGenerator: true
-    worldgen-TConstruct-SlimeIslandGen: true
-    worldgen-appliedenergistics2-QuartzWorldGen: true
-    worldgen-Mystcraft-MystWorldGenerator: true
     worldgen-IC2-IC2: true
+    worldgen-CoFHCore-WorldHandler: true
+    worldgen-TConstruct-TBaseWorldGenerator: true
+    worldgen-appliedenergistics2-QuartzWorldGen: true
+    worldgen-TConstruct-SlimeIslandGen: true
+    worldgen-appliedenergistics2-MeteoriteWorldGen: true
+    worldgen-EnergyAdditions-EnergyOreGenerator: true
+    worldgen-Mystcraft-MystWorldGenerator: true
+    worldgen-chisel-GeneratorChisel: true
+  max-players-visible: -1
 plugin-settings:
   default:
     remap-plugin-file: false

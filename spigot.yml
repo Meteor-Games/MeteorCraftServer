@@ -10,14 +10,7 @@
 # IRC: #spigot @ irc.esper.net ( http://webchat.esper.net/?channel=spigot )
 # Forums: http://www.spigotmc.org/forum/
 
-config-version: 5
-messages:
-  whitelist: You are not whitelisted on this server!
-  unknown-command: Unknown command. Type "/help" for help.
-  server-full: The server is full!
-  outdated-client: Outdated client! Please use {}
-  outdated-server: Outdated server! I'm still on {0}
-  restart: Server is restarting
+config-version: 7
 commands:
   tab-complete: true
   log: true
@@ -25,20 +18,45 @@ stats:
   disable-saving: false
   forced-stats: {}
 settings:
-  bungeecord: false
+  fullMatchRate: 10
   player-shuffle: 0
-  sample-count: 12
-  netty-threads: 4
+  late-bind: false
   timeout-time: 90
   restart-on-crash: true
   restart-script: ./start.sh
-  late-bind: false
-  fullMatchRate: 10
+  netty-threads: -1
+  sample-count: 12
+  bungeecord: false
+messages:
+  restart: Server is restarting
+  whitelist: You are not whitelisted on this server!
+  unknown-command: Unknown command. Type "/help" for help.
+  server-full: The server is full!
+  outdated-client: Outdated client! Please use {}
+  outdated-server: Outdated server! I'm still on {0}
 world-settings:
   default:
     verbose: false
+    mob-spawn-range: 4
+    chunks-per-tick: 650
+    clear-tick-list: false
+    max-entity-collisions: 8
+    arrow-despawn-rate: 1200
     enable-zombie-pigmen-portal-spawns: true
-    zombie-aggressive-towards-villager: true
+    item-despawn-rate: 6000
+    merge-radius:
+      exp: 3.0
+      item: 2.5
+    use-async-lighting: true
+    view-distance: 10
+    growth:
+      cactus-modifier: 100
+      cane-modifier: 100
+      melon-modifier: 100
+      mushroom-modifier: 100
+      pumpkin-modifier: 100
+      sapling-modifier: 100
+      wheat-modifier: 100
     anti-xray:
       enabled: true
       engine-mode: 1
@@ -59,38 +77,22 @@ world-settings:
       replace-blocks:
       - 1
       - 5
+    ticks-per:
+      hopper-transfer: 8
+      hopper-check: 8
+    random-light-updates: false
+    save-structure-info: true
     nerf-spawner-mobs: false
     entity-activation-range:
       animals: 32
       monsters: 32
       misc: 16
-    growth:
-      cactus-modifier: 100
-      cane-modifier: 100
-      melon-modifier: 100
-      mushroom-modifier: 100
-      pumpkin-modifier: 100
-      sapling-modifier: 100
-      wheat-modifier: 100
-    ticks-per:
-      hopper-transfer: 8
-      hopper-check: 8
     max-bulk-chunks: 5
     max-tick-time:
       tile: 50
       entity: 50
-    save-structure-info: true
-    random-light-updates: false
-    max-entity-collisions: 8
-    mob-spawn-range: 4
-    merge-radius:
-      exp: 3.0
-      item: 2.5
-    item-despawn-rate: 6000
-    chunks-per-tick: 650
-    clear-tick-list: false
-    view-distance: 10
-    arrow-despawn-rate: 1200
+    max-tnt-per-tick: 100
+    zombie-aggressive-towards-villager: true
     entity-tracking-range:
       players: 48
       animals: 48
