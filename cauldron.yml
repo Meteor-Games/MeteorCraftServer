@@ -65,6 +65,14 @@ world-settings:
     flowing-lava-decay: false
     infinite-water-source: true
     entity-despawn-immediate: false
+    worldgen-EnergyAdditions-EnergyOreGenerator: true
+    worldgen-TConstruct-TBaseWorldGenerator: true
+    worldgen-appliedenergistics2-MeteoriteWorldGen: true
+    worldgen-Roguelike-DungeonGenerator: true
+    worldgen-TConstruct-SlimeIslandGen: true
+    worldgen-appliedenergistics2-QuartzWorldGen: true
+    worldgen-Mystcraft-MystWorldGenerator: true
+    worldgen-IC2-IC2: true
 plugin-settings:
   default:
     remap-plugin-file: false

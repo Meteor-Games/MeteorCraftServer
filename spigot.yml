@@ -18,47 +18,27 @@ messages:
   outdated-client: Outdated client! Please use {}
   outdated-server: Outdated server! I'm still on {0}
   restart: Server is restarting
-stats:
-  disable-saving: false
-  forced-stats: {}
 commands:
   tab-complete: true
   log: true
+stats:
+  disable-saving: false
+  forced-stats: {}
 settings:
-  fullMatchRate: 10
+  bungeecord: false
   player-shuffle: 0
+  sample-count: 12
   netty-threads: 4
-  late-bind: false
   timeout-time: 90
   restart-on-crash: true
   restart-script: ./start.sh
-  sample-count: 12
-  bungeecord: false
+  late-bind: false
+  fullMatchRate: 10
 world-settings:
   default:
     verbose: false
-    max-entity-collisions: 8
     enable-zombie-pigmen-portal-spawns: true
-    arrow-despawn-rate: 1200
-    chunks-per-tick: 650
-    clear-tick-list: false
     zombie-aggressive-towards-villager: true
-    merge-radius:
-      item: 2.5
-      exp: 3.0
-    item-despawn-rate: 6000
-    save-structure-info: true
-    entity-activation-range:
-      animals: 32
-      monsters: 32
-      misc: 16
-    max-tick-time:
-      tile: 50
-      entity: 50
-    ticks-per:
-      hopper-transfer: 8
-      hopper-check: 8
-    max-bulk-chunks: 5
     anti-xray:
       enabled: true
       engine-mode: 1
@@ -79,6 +59,11 @@ world-settings:
       replace-blocks:
       - 1
       - 5
+    nerf-spawner-mobs: false
+    entity-activation-range:
+      animals: 32
+      monsters: 32
+      misc: 16
     growth:
       cactus-modifier: 100
       cane-modifier: 100
@@ -87,10 +72,25 @@ world-settings:
       pumpkin-modifier: 100
       sapling-modifier: 100
       wheat-modifier: 100
-    nerf-spawner-mobs: false
+    ticks-per:
+      hopper-transfer: 8
+      hopper-check: 8
+    max-bulk-chunks: 5
+    max-tick-time:
+      tile: 50
+      entity: 50
+    save-structure-info: true
     random-light-updates: false
-    view-distance: 10
+    max-entity-collisions: 8
     mob-spawn-range: 4
+    merge-radius:
+      exp: 3.0
+      item: 2.5
+    item-despawn-rate: 6000
+    chunks-per-tick: 650
+    clear-tick-list: false
+    view-distance: 10
+    arrow-despawn-rate: 1200
     entity-tracking-range:
       players: 48
       animals: 48
