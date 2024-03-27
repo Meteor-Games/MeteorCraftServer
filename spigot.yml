@@ -25,25 +25,26 @@ stats:
   disable-saving: false
   forced-stats: {}
 settings:
-  player-shuffle: 0
+  fullMatchRate: 10
   late-bind: false
-  netty-threads: -1
   timeout-time: 90
   restart-on-crash: true
   restart-script: ./start.sh
   sample-count: 12
-  fullMatchRate: 10
+  netty-threads: -1
   bungeecord: false
+  player-shuffle: 0
 world-settings:
   default:
     verbose: false
+    zombie-aggressive-towards-villager: true
+    use-async-lighting: true
+    item-despawn-rate: 6000
     enable-zombie-pigmen-portal-spawns: true
-    nerf-spawner-mobs: false
-    save-structure-info: true
-    max-tick-time:
-      tile: 50
-      entity: 50
-    max-tnt-per-tick: 100
+    mob-spawn-range: 4
+    merge-radius:
+      item: 2.5
+      exp: 3.0
     anti-xray:
       enabled: true
       engine-mode: 1
@@ -64,13 +65,16 @@ world-settings:
       replace-blocks:
       - 1
       - 5
+    entity-activation-range:
+      animals: 32
+      monsters: 32
+      misc: 16
     ticks-per:
       hopper-transfer: 8
       hopper-check: 8
     random-light-updates: false
-    merge-radius:
-      item: 2.5
-      exp: 3.0
+    save-structure-info: true
+    nerf-spawner-mobs: false
     growth:
       cactus-modifier: 100
       cane-modifier: 100
@@ -79,23 +83,19 @@ world-settings:
       pumpkin-modifier: 100
       sapling-modifier: 100
       wheat-modifier: 100
-    entity-activation-range:
-      animals: 32
-      monsters: 32
-      misc: 16
-    max-bulk-chunks: 5
-    zombie-aggressive-towards-villager: true
-    mob-spawn-range: 4
-    use-async-lighting: true
     chunks-per-tick: 650
     clear-tick-list: false
-    view-distance: 10
     arrow-despawn-rate: 1200
-    item-despawn-rate: 6000
+    view-distance: 10
+    max-entity-collisions: 8
+    max-tnt-per-tick: 100
+    max-tick-time:
+      tile: 50
+      entity: 50
+    max-bulk-chunks: 5
     entity-tracking-range:
       players: 48
       animals: 48
       monsters: 48
       misc: 32
       other: 64
-    max-entity-collisions: 8

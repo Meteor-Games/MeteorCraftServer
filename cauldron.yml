@@ -70,16 +70,16 @@ world-settings:
     allow-tnt-punishment: true
     infinite-water-source: true
     entity-despawn-immediate: false
-    worldgen-TConstruct-SlimeIslandGen: true
+    worldgen-TConstruct-TBaseWorldGenerator: true
     worldgen-appliedenergistics2-QuartzWorldGen: true
-    worldgen-IC2-IC2: true
-    worldgen-appliedenergistics2-MeteoriteWorldGen: true
-    worldgen-Mystcraft-MystWorldGenerator: true
     worldgen-Roguelike-DungeonGenerator: true
     worldgen-chisel-GeneratorChisel: true
+    worldgen-TConstruct-SlimeIslandGen: true
     worldgen-CoFHCore-WorldHandler: true
-    worldgen-TConstruct-TBaseWorldGenerator: true
+    worldgen-IC2-IC2: true
+    worldgen-appliedenergistics2-MeteoriteWorldGen: true
     worldgen-EnergyAdditions-EnergyOreGenerator: true
+    worldgen-Mystcraft-MystWorldGenerator: true
   max-players-visible: -1
 plugin-settings:
   default:
