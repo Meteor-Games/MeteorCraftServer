@@ -1,0 +1,197 @@
+[22:23:57] [main/INFO] [FML/]: Forge Mod Loader version 7.10.114.1388 for Minecraft 1.7.10 loading
+[22:23:57] [main/INFO] [FML/]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_391, running on Windows 11:amd64:10.0, installed at C:\Program Files\Java\jre-1.8
+[22:23:57] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:23:57] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[22:23:57] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:23:57] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:23:57] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:23:58] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:23:58] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[22:23:58] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.TerminalTweaker
+[22:23:58] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.TerminalTweaker
+[22:23:59] [main/INFO] [LaunchWrapper/]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[22:24:02] [Server thread/INFO] [MinecraftForge/]: Attempting early MinecraftForge initialization
+[22:24:02] [Server thread/INFO] [FML/]: MinecraftForge v10.13.3.1403 Initialized
+[22:24:02] [Server thread/INFO] [FML/]: Replaced 183 ore recipies
+[22:24:02] [Server thread/INFO] [FML/]: Preloading CrashReport classes
+[22:24:02] [Server thread/INFO] [FML/]: 	net.minecraft.world.World$1
+[22:24:02] [Server thread/INFO] [FML/]: 	net.minecraft.world.World$2
+[22:24:02] [Server thread/INFO] [FML/]: 	net.minecraft.world.World$3
+[22:24:02] [Server thread/INFO] [FML/]: 	net.minecraft.world.World$4
+[22:24:02] [Server thread/INFO] [FML/]: 	net.minecraft.world.chunk.Chunk$1
+[22:24:02] [Server thread/INFO] [FML/]: 	net.minecraft.crash.CrashReportCategory$1
+[22:24:02] [Server thread/INFO] [FML/]: 	net.minecraft.crash.CrashReportCategory$2
+[22:24:02] [Server thread/INFO] [FML/]: 	net.minecraft.crash.CrashReportCategory$3
+[22:24:02] [Server thread/INFO] [FML/]: 	net.minecraft.entity.Entity$1
+[22:24:02] [Server thread/INFO] [FML/]: 	net.minecraft.entity.Entity$2
+[22:24:02] [Server thread/INFO] [FML/]: 	net.minecraft.entity.EntityTracker$1
+[22:24:02] [Server thread/INFO] [FML/]: 	net.minecraft.world.gen.layer.GenLayer$1
+[22:24:02] [Server thread/INFO] [FML/]: 	net.minecraft.world.gen.layer.GenLayer$2
+[22:24:02] [Server thread/INFO] [FML/]: 	net.minecraft.entity.player.InventoryPlayer$1
+[22:24:02] [Server thread/INFO] [FML/]: 	net.minecraft.world.gen.structure.MapGenStructure$1
+[22:24:02] [Server thread/INFO] [FML/]: 	net.minecraft.world.gen.structure.MapGenStructure$2
+[22:24:02] [Server thread/INFO] [FML/]: 	net.minecraft.world.gen.structure.MapGenStructure$3
+[22:24:02] [Server thread/INFO] [FML/]: 	net.minecraft.server.MinecraftServer$3
+[22:24:02] [Server thread/INFO] [FML/]: 	net.minecraft.server.MinecraftServer$4
+[22:24:02] [Server thread/INFO] [FML/]: 	net.minecraft.server.MinecraftServer$5
+[22:24:02] [Server thread/INFO] [FML/]: 	net.minecraft.nbt.NBTTagCompound$1
+[22:24:02] [Server thread/INFO] [FML/]: 	net.minecraft.nbt.NBTTagCompound$2
+[22:24:02] [Server thread/INFO] [FML/]: 	net.minecraft.network.NetHandlerPlayServer$2
+[22:24:02] [Server thread/INFO] [FML/]: 	net.minecraft.network.NetworkSystem$3
+[22:24:02] [Server thread/INFO] [FML/]: 	net.minecraft.tileentity.TileEntity$1
+[22:24:02] [Server thread/INFO] [FML/]: 	net.minecraft.tileentity.TileEntity$2
+[22:24:02] [Server thread/INFO] [FML/]: 	net.minecraft.tileentity.TileEntity$3
+[22:24:02] [Server thread/INFO] [FML/]: 	net.minecraft.world.storage.WorldInfo$1
+[22:24:02] [Server thread/INFO] [FML/]: 	net.minecraft.world.storage.WorldInfo$2
+[22:24:02] [Server thread/INFO] [FML/]: 	net.minecraft.world.storage.WorldInfo$3
+[22:24:02] [Server thread/INFO] [FML/]: 	net.minecraft.world.storage.WorldInfo$4
+[22:24:02] [Server thread/INFO] [FML/]: 	net.minecraft.world.storage.WorldInfo$5
+[22:24:02] [Server thread/INFO] [FML/]: 	net.minecraft.world.storage.WorldInfo$6
+[22:24:02] [Server thread/INFO] [FML/]: 	net.minecraft.world.storage.WorldInfo$7
+[22:24:02] [Server thread/INFO] [FML/]: 	net.minecraft.world.storage.WorldInfo$8
+[22:24:02] [Server thread/INFO] [FML/]: 	net.minecraft.world.storage.WorldInfo$9
+[22:24:02] [Server thread/INFO] [FML/]: 	net.minecraft.server.dedicated.DedicatedServer$3
+[22:24:02] [Server thread/INFO] [FML/]: 	net.minecraft.server.dedicated.DedicatedServer$4
+[22:24:02] [Server thread/INFO] [MinecraftForge/]: Completed early MinecraftForge initialization
+[22:24:02] [Server thread/INFO] [FML/]: Found 0 mods from the command line. Injecting into mod discoverer
+[22:24:02] [Server thread/INFO] [FML/]: Searching C:\Users\Marcos\Documents\GitHub\MeteorCraftServer\mods for mods
+[22:24:03] [Server thread/INFO] [FML/]: Forge Mod Loader has identified 3 mods to load
+[22:24:03] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge] at CLIENT
+[22:24:03] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge] at SERVER
+[22:24:03] [Server thread/INFO] [FML/]: Processing ObjectHolder annotations
+[22:24:03] [Server thread/INFO] [FML/]: Found 341 ObjectHolder annotations
+[22:24:03] [Server thread/INFO] [FML/Forge]: Configured a dormant chunk cache size of 0
+[22:24:03] [Server thread/INFO] [FML/]: Applying holder lookups
+[22:24:03] [Server thread/INFO] [FML/]: Holder lookups applied
+[22:24:03] [Server thread/INFO] [Minecraft/]: This server is running Cauldron-MCPC-Plus version KCauldron-1.7.10-4.1403.65 (MC: 1.7.10) (Implementing API version 1.7.10-R0.1-SNAPSHOT)
+[22:24:03] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
+[22:24:03] [Server thread/INFO] [/]: Server Ping Player Sample Count: 12
+[22:24:03] [Server thread/WARN] [FML/]: =============================================================
+[22:24:03] [Server thread/WARN] [FML/]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[22:24:03] [Server thread/WARN] [FML/]: Offendor: org/spigotmc/RestartCommand.restart()V
+[22:24:03] [Server thread/WARN] [FML/]: Use FMLCommonHandler.exitJava instead
+[22:24:03] [Server thread/WARN] [FML/]: =============================================================
+[22:24:03] [Forge Version Check/WARN] [/Forge]: com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1
+[22:24:03] [Forge Version Check/WARN] [/Forge]: 	at com.google.gson.Gson.fromJson(Gson.java:815)
+[22:24:03] [Forge Version Check/WARN] [/Forge]: 	at com.google.gson.Gson.fromJson(Gson.java:768)
+[22:24:03] [Forge Version Check/WARN] [/Forge]: 	at com.google.gson.Gson.fromJson(Gson.java:717)
+[22:24:03] [Forge Version Check/WARN] [/Forge]: 	at com.google.gson.Gson.fromJson(Gson.java:689)
+[22:24:03] [Forge Version Check/WARN] [/Forge]: 	at net.minecraftforge.common.ForgeVersion$1.run(ForgeVersion.java:94)
+[22:24:03] [Forge Version Check/WARN] [/Forge]: Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1
+[22:24:03] [Forge Version Check/WARN] [/Forge]: 	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:374)
+[22:24:03] [Forge Version Check/WARN] [/Forge]: 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:183)
+[22:24:03] [Forge Version Check/WARN] [/Forge]: 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145)
+[22:24:03] [Forge Version Check/WARN] [/Forge]: 	at com.google.gson.Gson.fromJson(Gson.java:803)
+[22:24:03] [Forge Version Check/WARN] [/Forge]: 	... 4 more
+[22:24:04] [Server thread/INFO] [FML/]: Forge Mod Loader has successfully loaded 3 mods
+[22:24:04] [Server thread/INFO] [FML/]: Injecting existing block and item data into this server instance
+[22:24:04] [Server thread/INFO] [FML/]: Applying holder lookups
+[22:24:04] [Server thread/INFO] [FML/]: Holder lookups applied
+[22:24:04] [Server thread/INFO] [FML/]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@68fe675f)
+[22:24:04] [Server thread/INFO] [FML/]: Injecting existing block and item data into this server instance
+[22:24:04] [Server thread/INFO] [FML/]: Applying holder lookups
+[22:24:04] [Server thread/INFO] [FML/]: Holder lookups applied
+[22:24:04] [Server thread/INFO] [FML/]: Loading dimension 1 (DIM1) (net.minecraft.server.dedicated.DedicatedServer@68fe675f)
+[22:24:04] [Server thread/INFO] [FML/]: Injecting existing block and item data into this server instance
+[22:24:04] [Server thread/INFO] [FML/]: Applying holder lookups
+[22:24:04] [Server thread/INFO] [FML/]: Holder lookups applied
+[22:24:04] [Server thread/INFO] [FML/]: Loading dimension -1 (DIM-1) (net.minecraft.server.dedicated.DedicatedServer@68fe675f)
+[22:24:05] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
+[22:25:45] [Server thread/INFO] [/]: Unknown command. Type "/help" for help.
+[22:25:48] [Server thread/INFO] [/]: --------- Help: Index ---------------------------
+[22:25:48] [Server thread/INFO] [/]: Use /help [n] to get page n of help.
+[22:25:48] [Server thread/INFO] [/]: Aliases: Lists command aliases
+[22:25:48] [Server thread/INFO] [/]: Bukkit: All commands for Bukkit
+[22:25:48] [Server thread/INFO] [/]: Minecraft: All commands for Minecraft
+[22:25:48] [Server thread/INFO] [/]: /achievement: Gives the specified player an achievement or changes a statistic value. Use '*' to give all achievements.
+[22:25:48] [Server thread/INFO] [/]: /ban: Prevents the specified player from using this server
+[22:25:48] [Server thread/INFO] [/]: /ban-ip: Prevents the specified IP address from using this server
+[22:25:48] [Server thread/INFO] [/]: /banlist: View all players banned from this server
+[22:25:48] [Server thread/INFO] [/]: /cauldron: Toggle certain Cauldron options
+[22:25:48] [Server thread/INFO] [/]: /cauldron_te: Toggle certain TileEntity options
+[22:25:48] [Server thread/INFO] [/]: /clear: Clears the player's inventory. Can specify item and data filters too.
+[22:25:48] [Server thread/INFO] [/]: /defaultgamemode: Set the default gamemode
+[22:25:48] [Server thread/INFO] [/]: /deop: Takes the specified player's operator status
+[22:25:48] [Server thread/INFO] [/]: /difficulty: Sets the game difficulty
+[22:25:48] [Server thread/INFO] [/]: /effect: Adds/Removes effects on players
+[22:25:48] [Server thread/INFO] [/]: /enchant: Adds enchantments to the item the player is currently holding. Specify 0 for the level to remove an enchantment. Specify force to ignore normal enchantment restrictions
+[22:25:48] [Server thread/INFO] [/]: /gamemode: Changes the player to a specific game mode
+[22:25:48] [Server thread/INFO] [/]: /gamerule: Sets a server's game rules
+[22:25:48] [Server thread/INFO] [/]: /give: Gives the specified player a certain amount of items
+[22:25:48] [Server thread/INFO] [/]: /help: Shows the help menu
+[22:25:48] [Server thread/INFO] [/]: /kick: Removes the specified player from the server
+[22:25:48] [Server thread/INFO] [/]: /kill: Commits suicide, only usable as a player
+[22:25:48] [Server thread/INFO] [/]: /list: Lists all online players
+[22:25:48] [Server thread/INFO] [/]: /me: Performs the specified action in chat
+[22:25:48] [Server thread/INFO] [/]: /minecraft:achievement: A Mojang provided command.
+[22:25:48] [Server thread/INFO] [/]: /minecraft:ban: A Mojang provided command.
+[22:25:48] [Server thread/INFO] [/]: /minecraft:ban-ip: A Mojang provided command.
+[22:25:48] [Server thread/INFO] [/]: /minecraft:banlist: A Mojang provided command.
+[22:25:48] [Server thread/INFO] [/]: /minecraft:clear: A Mojang provided command.
+[22:25:48] [Server thread/INFO] [/]: /minecraft:defaultgamemode: A Mojang provided command.
+[22:25:48] [Server thread/INFO] [/]: /minecraft:deop: A Mojang provided command.
+[22:25:48] [Server thread/INFO] [/]: /minecraft:difficulty: A Mojang provided command.
+[22:25:48] [Server thread/INFO] [/]: /minecraft:effect: A Mojang provided command.
+[22:25:48] [Server thread/INFO] [/]: /minecraft:enchant: A Mojang provided command.
+[22:25:48] [Server thread/INFO] [/]: /minecraft:gamemode: A Mojang provided command.
+[22:25:48] [Server thread/INFO] [/]: /minecraft:gamerule: A Mojang provided command.
+[22:25:48] [Server thread/INFO] [/]: /minecraft:give: A Mojang provided command.
+[22:25:48] [Server thread/INFO] [/]: /minecraft:help: A Mojang provided command.
+[22:25:48] [Server thread/INFO] [/]: /minecraft:kick: A Mojang provided command.
+[22:25:48] [Server thread/INFO] [/]: /minecraft:kill: A Mojang provided command.
+[22:25:48] [Server thread/INFO] [/]: /minecraft:list: A Mojang provided command.
+[22:25:48] [Server thread/INFO] [/]: /minecraft:me: A Mojang provided command.
+[22:25:48] [Server thread/INFO] [/]: /minecraft:op: A Mojang provided command.
+[22:25:48] [Server thread/INFO] [/]: /minecraft:pardon: A Mojang provided command.
+[22:25:48] [Server thread/INFO] [/]: /minecraft:pardon-ip: A Mojang provided command.
+[22:25:48] [Server thread/INFO] [/]: /minecraft:playsound: A Mojang provided command.
+[22:25:48] [Server thread/INFO] [/]: /minecraft:say: A Mojang provided command.
+[22:25:48] [Server thread/INFO] [/]: /minecraft:scoreboard: A Mojang provided command.
+[22:25:48] [Server thread/INFO] [/]: /minecraft:seed: A Mojang provided command.
+[22:25:48] [Server thread/INFO] [/]: /minecraft:setidletimeout: A Mojang provided command.
+[22:25:48] [Server thread/INFO] [/]: /minecraft:setworldspawn: A Mojang provided command.
+[22:25:48] [Server thread/INFO] [/]: /minecraft:spawnpoint: A Mojang provided command.
+[22:25:48] [Server thread/INFO] [/]: /minecraft:spreadplayers: A Mojang provided command.
+[22:25:48] [Server thread/INFO] [/]: /minecraft:tell: A Mojang provided command.
+[22:25:48] [Server thread/INFO] [/]: /minecraft:testfor: A Mojang provided command.
+[22:25:48] [Server thread/INFO] [/]: /minecraft:time: A Mojang provided command.
+[22:25:48] [Server thread/INFO] [/]: /minecraft:toggledownfall: A Mojang provided command.
+[22:25:48] [Server thread/INFO] [/]: /minecraft:tp: A Mojang provided command.
+[22:25:48] [Server thread/INFO] [/]: /minecraft:weather: A Mojang provided command.
+[22:25:48] [Server thread/INFO] [/]: /minecraft:whitelist: A Mojang provided command.
+[22:25:48] [Server thread/INFO] [/]: /minecraft:xp: A Mojang provided command.
+[22:25:48] [Server thread/INFO] [/]: /netstat: A Mojang provided command.
+[22:25:48] [Server thread/INFO] [/]: /op: Gives the specified player operator status
+[22:25:48] [Server thread/INFO] [/]: /pardon: Allows the specified player to use this server
+[22:25:48] [Server thread/INFO] [/]: /pardon-ip: Allows the specified IP address to use this server
+[22:25:48] [Server thread/INFO] [/]: /playsound: Plays a sound to a given player
+[22:25:48] [Server thread/INFO] [/]: /plugins: Gets a list of plugins running on the server
+[22:25:48] [Server thread/INFO] [/]: /reload: Reloads the server configuration and plugins
+[22:25:48] [Server thread/INFO] [/]: /restart: Restarts the server
+[22:25:48] [Server thread/INFO] [/]: /save-all: Saves the server to disk
+[22:25:48] [Server thread/INFO] [/]: /save-off: Disables server autosaving
+[22:25:48] [Server thread/INFO] [/]: /save-on: Enables server autosaving
+[22:25:48] [Server thread/INFO] [/]: /say: Broadcasts the given message as the sender
+[22:25:48] [Server thread/INFO] [/]: /scoreboard: Scoreboard control
+[22:25:48] [Server thread/INFO] [/]: /seed: Shows the world seed
+[22:25:48] [Server thread/INFO] [/]: /setblock: A Mojang provided command.
+[22:25:48] [Server thread/INFO] [/]: /setidletimeout: Sets the server's idle timeout
+[22:25:48] [Server thread/INFO] [/]: /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+[22:25:48] [Server thread/INFO] [/]: /spawnpoint: Sets a player's spawn point
+[22:25:48] [Server thread/INFO] [/]: /spreadplayers: Spreads players around a point
+[22:25:48] [Server thread/INFO] [/]: /stop: Stops the server with optional reason
+[22:25:48] [Server thread/INFO] [/]: /summon: A Mojang provided command.
+[22:25:48] [Server thread/INFO] [/]: /tell: Sends a private message to the given player
+[22:25:48] [Server thread/INFO] [/]: /tellraw: A Mojang provided command.
+[22:25:48] [Server thread/INFO] [/]: /testfor: Tests whether a specifed player is online
+[22:25:48] [Server thread/INFO] [/]: /testforblock: A Mojang provided command.
+[22:25:48] [Server thread/INFO] [/]: /time: Changes the time on each world
+[22:25:48] [Server thread/INFO] [/]: /timings: Manages Spigot Timings data to see performance of the server.
+[22:25:48] [Server thread/INFO] [/]: /toggledownfall: Toggles rain on/off on a given world
+[22:25:48] [Server thread/INFO] [/]: /tp: Teleports the given player (or yourself) to another player or coordinates
+[22:25:48] [Server thread/INFO] [/]: /tps: Gets the current ticks per second for the server
+[22:25:48] [Server thread/INFO] [/]: /version: Gets the version of this server including any plugins in use
+[22:25:48] [Server thread/INFO] [/]: /weather: Changes the weather
+[22:25:48] [Server thread/INFO] [/]: /whitelist: Manages the list of players allowed to use this server
+[22:25:48] [Server thread/INFO] [/]: /xp: Gives the specified player a certain amount of experience. Specify <amount>L to give levels instead, with a negative amount resulting in taking levels.
+[22:25:59] [Server thread/INFO] [/]: Usage: /cauldron [get|set|tick-interval|save|reload|chunks|heap] <option> [value]

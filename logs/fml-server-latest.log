@@ -1,0 +1,601 @@
+[22:29:00] [main/INFO] [FML/]: Forge Mod Loader version 7.10.114.1388 for Minecraft 1.7.10 loading
+[22:29:01] [main/INFO] [FML/]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_391, running on Windows 11:amd64:10.0, installed at C:\Program Files\Java\jre-1.8
+[22:29:01] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:29:01] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[22:29:01] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:29:01] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:29:01] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:29:01] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:29:01] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[22:29:02] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.TerminalTweaker
+[22:29:02] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.TerminalTweaker
+[22:29:02] [main/INFO] [LaunchWrapper/]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[22:29:05] [Server thread/INFO] [MinecraftForge/]: Attempting early MinecraftForge initialization
+[22:29:05] [Server thread/INFO] [FML/]: MinecraftForge v10.13.3.1403 Initialized
+[22:29:05] [Server thread/INFO] [FML/]: Replaced 183 ore recipies
+[22:29:05] [Server thread/INFO] [FML/]: Preloading CrashReport classes
+[22:29:05] [Server thread/INFO] [FML/]: 	net.minecraft.world.World$1
+[22:29:05] [Server thread/INFO] [FML/]: 	net.minecraft.world.World$2
+[22:29:05] [Server thread/INFO] [FML/]: 	net.minecraft.world.World$3
+[22:29:05] [Server thread/INFO] [FML/]: 	net.minecraft.world.World$4
+[22:29:05] [Server thread/INFO] [FML/]: 	net.minecraft.world.chunk.Chunk$1
+[22:29:05] [Server thread/INFO] [FML/]: 	net.minecraft.crash.CrashReportCategory$1
+[22:29:05] [Server thread/INFO] [FML/]: 	net.minecraft.crash.CrashReportCategory$2
+[22:29:05] [Server thread/INFO] [FML/]: 	net.minecraft.crash.CrashReportCategory$3
+[22:29:05] [Server thread/INFO] [FML/]: 	net.minecraft.entity.Entity$1
+[22:29:05] [Server thread/INFO] [FML/]: 	net.minecraft.entity.Entity$2
+[22:29:05] [Server thread/INFO] [FML/]: 	net.minecraft.entity.EntityTracker$1
+[22:29:05] [Server thread/INFO] [FML/]: 	net.minecraft.world.gen.layer.GenLayer$1
+[22:29:05] [Server thread/INFO] [FML/]: 	net.minecraft.world.gen.layer.GenLayer$2
+[22:29:05] [Server thread/INFO] [FML/]: 	net.minecraft.entity.player.InventoryPlayer$1
+[22:29:05] [Server thread/INFO] [FML/]: 	net.minecraft.world.gen.structure.MapGenStructure$1
+[22:29:05] [Server thread/INFO] [FML/]: 	net.minecraft.world.gen.structure.MapGenStructure$2
+[22:29:05] [Server thread/INFO] [FML/]: 	net.minecraft.world.gen.structure.MapGenStructure$3
+[22:29:05] [Server thread/INFO] [FML/]: 	net.minecraft.server.MinecraftServer$3
+[22:29:05] [Server thread/INFO] [FML/]: 	net.minecraft.server.MinecraftServer$4
+[22:29:05] [Server thread/INFO] [FML/]: 	net.minecraft.server.MinecraftServer$5
+[22:29:05] [Server thread/INFO] [FML/]: 	net.minecraft.nbt.NBTTagCompound$1
+[22:29:05] [Server thread/INFO] [FML/]: 	net.minecraft.nbt.NBTTagCompound$2
+[22:29:05] [Server thread/INFO] [FML/]: 	net.minecraft.network.NetHandlerPlayServer$2
+[22:29:05] [Server thread/INFO] [FML/]: 	net.minecraft.network.NetworkSystem$3
+[22:29:05] [Server thread/INFO] [FML/]: 	net.minecraft.tileentity.TileEntity$1
+[22:29:05] [Server thread/INFO] [FML/]: 	net.minecraft.tileentity.TileEntity$2
+[22:29:05] [Server thread/INFO] [FML/]: 	net.minecraft.tileentity.TileEntity$3
+[22:29:05] [Server thread/INFO] [FML/]: 	net.minecraft.world.storage.WorldInfo$1
+[22:29:05] [Server thread/INFO] [FML/]: 	net.minecraft.world.storage.WorldInfo$2
+[22:29:05] [Server thread/INFO] [FML/]: 	net.minecraft.world.storage.WorldInfo$3
+[22:29:05] [Server thread/INFO] [FML/]: 	net.minecraft.world.storage.WorldInfo$4
+[22:29:05] [Server thread/INFO] [FML/]: 	net.minecraft.world.storage.WorldInfo$5
+[22:29:05] [Server thread/INFO] [FML/]: 	net.minecraft.world.storage.WorldInfo$6
+[22:29:05] [Server thread/INFO] [FML/]: 	net.minecraft.world.storage.WorldInfo$7
+[22:29:05] [Server thread/INFO] [FML/]: 	net.minecraft.world.storage.WorldInfo$8
+[22:29:05] [Server thread/INFO] [FML/]: 	net.minecraft.world.storage.WorldInfo$9
+[22:29:05] [Server thread/INFO] [FML/]: 	net.minecraft.server.dedicated.DedicatedServer$3
+[22:29:05] [Server thread/INFO] [FML/]: 	net.minecraft.server.dedicated.DedicatedServer$4
+[22:29:05] [Server thread/INFO] [MinecraftForge/]: Completed early MinecraftForge initialization
+[22:29:06] [Server thread/INFO] [FML/]: Found 0 mods from the command line. Injecting into mod discoverer
+[22:29:06] [Server thread/INFO] [FML/]: Searching C:\Users\Marcos\Documents\GitHub\MeteorCraftServer\mods for mods
+[22:29:06] [Server thread/INFO] [FML/]: Forge Mod Loader has identified 10 mods to load
+[22:29:06] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge, BuildCraft|Builders, BuildCraft|Robotics, BuildCraft|Silicon, BuildCraft|Energy, BuildCraft|Transport, BuildCraft|Core, BuildCraft|Factory] at CLIENT
+[22:29:06] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge, BuildCraft|Builders, BuildCraft|Robotics, BuildCraft|Silicon, BuildCraft|Energy, BuildCraft|Transport, BuildCraft|Core, BuildCraft|Factory] at SERVER
+[22:29:07] [Server thread/INFO] [FML/]: Processing ObjectHolder annotations
+[22:29:07] [Server thread/INFO] [FML/]: Found 341 ObjectHolder annotations
+[22:29:07] [Server thread/INFO] [FML/Forge]: Configured a dormant chunk cache size of 0
+[22:29:07] [Server thread/INFO] [BuildCraft/BuildCraft|Core]: Starting BuildCraft 7.1.25
+[22:29:07] [Server thread/INFO] [BuildCraft/BuildCraft|Core]: Copyright (c) the BuildCraft team, 2011-2017
+[22:29:07] [Server thread/INFO] [BuildCraft/BuildCraft|Core]: http://www.mod-buildcraft.com
+[22:29:07] [Thread-10/INFO] [BuildCraft/BuildCraft|Core]: Beginning version check
+[22:29:07] [Forge Version Check/WARN] [/Forge]: com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1
+[22:29:07] [Forge Version Check/WARN] [/Forge]: 	at com.google.gson.Gson.fromJson(Gson.java:815)
+[22:29:07] [Forge Version Check/WARN] [/Forge]: 	at com.google.gson.Gson.fromJson(Gson.java:768)
+[22:29:07] [Forge Version Check/WARN] [/Forge]: 	at com.google.gson.Gson.fromJson(Gson.java:717)
+[22:29:07] [Forge Version Check/WARN] [/Forge]: 	at com.google.gson.Gson.fromJson(Gson.java:689)
+[22:29:07] [Forge Version Check/WARN] [/Forge]: 	at net.minecraftforge.common.ForgeVersion$1.run(ForgeVersion.java:94)
+[22:29:07] [Forge Version Check/WARN] [/Forge]: Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1
+[22:29:07] [Forge Version Check/WARN] [/Forge]: 	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:374)
+[22:29:07] [Forge Version Check/WARN] [/Forge]: 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:183)
+[22:29:07] [Forge Version Check/WARN] [/Forge]: 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145)
+[22:29:07] [Forge Version Check/WARN] [/Forge]: 	at com.google.gson.Gson.fromJson(Gson.java:803)
+[22:29:07] [Forge Version Check/WARN] [/Forge]: 	... 4 more
+[22:29:07] [Server thread/INFO] [FML/]: Applying holder lookups
+[22:29:07] [Server thread/INFO] [FML/]: Holder lookups applied
+[22:29:07] [Server thread/INFO] [Minecraft/]: This server is running Cauldron-MCPC-Plus version KCauldron-1.7.10-4.1403.65 (MC: 1.7.10) (Implementing API version 1.7.10-R0.1-SNAPSHOT)
+[22:29:07] [Server thread/WARN] [FML/]: =============================================================
+[22:29:07] [Server thread/WARN] [FML/]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[22:29:07] [Server thread/WARN] [FML/]: Offendor: org/spigotmc/RestartCommand.restart()V
+[22:29:07] [Server thread/WARN] [FML/]: Use FMLCommonHandler.exitJava instead
+[22:29:07] [Server thread/WARN] [FML/]: =============================================================
+[22:29:07] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
+[22:29:07] [Server thread/INFO] [/]: Server Ping Player Sample Count: 12
+[22:29:08] [Server thread/INFO] [BuildCraft/BuildCraft|Core]: BuildCraft's fake player: UUID = 77456a1f-b9f9-3f84-8863-ddef5b8e2209, name = '[BuildCraft]'!
+[22:29:08] [Server thread/INFO] [FML/]: Forge Mod Loader has successfully loaded 10 mods
+[22:29:08] [Server thread/INFO] [FML/]: Injecting existing block and item data into this server instance
+[22:29:08] [Server thread/INFO] [FML/]: Injecting new block and item data into this server instance.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Builders:libraryBlock: 181 (init) -> 181 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:eternalSpring: 165 (init) -> 165 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Robotics:zonePlan: 183 (init) -> 183 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:markerBlock: 168 (init) -> 168 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Factory:autoWorkbenchBlock: 195 (init) -> 195 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:buildToolBlock: 166 (init) -> 166 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Builders:frameBlock: 178 (init) -> 178 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Builders:builderBlock: 179 (init) -> 179 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Silicon:laserBlock: 185 (init) -> 185 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:pipeBlock: 192 (init) -> 192 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Factory:miningWellBlock: 193 (init) -> 193 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Factory:pumpBlock: 197 (init) -> 197 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Energy:blockOil: 188 (init) -> 188 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Energy:blockRedPlasma: 190 (init) -> 190 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Factory:blockHopper: 200 (init) -> 200 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Factory:tankBlock: 196 (init) -> 196 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:pathMarkerBlock: 169 (init) -> 169 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:engineBlock: 167 (init) -> 167 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Builders:architectBlock: 180 (init) -> 180 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Silicon:laserTableBlock: 186 (init) -> 186 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Builders:fillerBlock: 177 (init) -> 177 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:filteredBufferBlock: 191 (init) -> 191 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Robotics:requester: 184 (init) -> 184 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Builders:constructionMarkerBlock: 182 (init) -> 182 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Factory:floodGateBlock: 198 (init) -> 198 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Energy:blockFuel: 189 (init) -> 189 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Builders:machineBlock: 176 (init) -> 176 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Factory:plainPipeBlock: 194 (init) -> 194 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Factory:refineryBlock: 199 (init) -> 199 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Silicon:packagerBlock: 187 (init) -> 187 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Builders:libraryBlock: 181 (init) -> 181 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:goldGearItem: 4103 (init) -> 4103 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipeitemsemzuli: 4130 (init) -> 4130 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Robotics:zonePlan: 183 (init) -> 183 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Robotics:robot: 4108 (init) -> 4108 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipeitemsdaizuli: 4127 (init) -> 4127 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Energy:bucketFuel: 4115 (init) -> 4115 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Factory:autoWorkbenchBlock: 195 (init) -> 195 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipefluidsquartz: 4136 (init) -> 4136 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:buildToolBlock: 166 (init) -> 166 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipeitemsemerald: 4118 (init) -> 4118 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipepowercobblestone: 4145 (init) -> 4145 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipepoweremerald: 4151 (init) -> 4151 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Robotics:redstone_board: 4110 (init) -> 4110 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Silicon:redstoneCrystal: 4113 (init) -> 4113 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipepowerstone: 4146 (init) -> 4146 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipepoweriron: 4148 (init) -> 4148 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Builders:builderBlock: 179 (init) -> 179 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Silicon:laserBlock: 185 (init) -> 185 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:pipePowerAdapter: 4159 (init) -> 4159 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:pipeWaterproof: 4116 (init) -> 4116 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipeitemsquartz: 4121 (init) -> 4121 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:pipeBlock: 192 (init) -> 192 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipefluidsiron: 4137 (init) -> 4137 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:diamondGearItem: 4104 (init) -> 4104 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Factory:miningWellBlock: 193 (init) -> 193 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipepowerquartz: 4147 (init) -> 4147 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipeitemswood: 4117 (init) -> 4117 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipeitemsobsidian: 4125 (init) -> 4125 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Factory:pumpBlock: 197 (init) -> 197 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:woodenGearItem: 4100 (init) -> 4100 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:pipePlug: 4157 (init) -> 4157 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Energy:blockOil: 188 (init) -> 188 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:paintbrush: 4105 (init) -> 4105 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipeitemsiron: 4122 (init) -> 4122 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:pathMarkerBlock: 169 (init) -> 169 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipeitemsdiamond: 4124 (init) -> 4124 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Builders:architectBlock: 180 (init) -> 180 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Silicon:laserTableBlock: 186 (init) -> 186 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:debugger: 4099 (init) -> 4099 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:pipeLens: 4158 (init) -> 4158 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipefluidssandstone: 4141 (init) -> 4141 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:pipeWire: 4154 (init) -> 4154 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipefluidsgold: 4138 (init) -> 4138 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipefluidsclay: 4143 (init) -> 4143 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:wrenchItem: 4096 (init) -> 4096 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Builders:templateItem: 4106 (init) -> 4106 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipeitemsstone: 4120 (init) -> 4120 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Energy:blockFuel: 189 (init) -> 189 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Builders:machineBlock: 176 (init) -> 176 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Silicon:packagerBlock: 187 (init) -> 187 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipeitemsclay: 4132 (init) -> 4132 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipefluidsvoid: 4142 (init) -> 4142 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:eternalSpring: 165 (init) -> 165 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipefluidsstone: 4135 (init) -> 4135 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipefluidsemerald: 4139 (init) -> 4139 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:markerBlock: 168 (init) -> 168 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipeitemsgold: 4123 (init) -> 4123 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Builders:frameBlock: 178 (init) -> 178 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:pipeFacade: 4156 (init) -> 4156 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipepowerwood: 4144 (init) -> 4144 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:gateCopier: 4160 (init) -> 4160 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:ironGearItem: 4102 (init) -> 4102 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:mapLocation: 4097 (init) -> 4097 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Silicon:package: 4112 (init) -> 4112 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Builders:blueprintItem: 4107 (init) -> 4107 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:stoneGearItem: 4101 (init) -> 4101 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:list: 4098 (init) -> 4098 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipestructurecobblestone: 4153 (init) -> 4153 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Energy:blockRedPlasma: 190 (init) -> 190 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipefluidscobblestone: 4134 (init) -> 4134 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Factory:blockHopper: 200 (init) -> 200 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Factory:tankBlock: 196 (init) -> 196 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:pipeGate: 4155 (init) -> 4155 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipefluidswood: 4133 (init) -> 4133 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:engineBlock: 167 (init) -> 167 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipepowerdiamond: 4150 (init) -> 4150 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipeitemssandstone: 4128 (init) -> 4128 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipeitemscobblestone: 4119 (init) -> 4119 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipeitemsstripes: 4131 (init) -> 4131 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Energy:bucketOil: 4114 (init) -> 4114 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipeitemslapis: 4126 (init) -> 4126 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipefluidsdiamond: 4140 (init) -> 4140 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Builders:fillerBlock: 177 (init) -> 177 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Robotics:robotStation: 4109 (init) -> 4109 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:filteredBufferBlock: 191 (init) -> 191 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Robotics:requester: 184 (init) -> 184 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipepowergold: 4149 (init) -> 4149 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipeitemsvoid: 4129 (init) -> 4129 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Builders:constructionMarkerBlock: 182 (init) -> 182 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Factory:floodGateBlock: 198 (init) -> 198 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Factory:plainPipeBlock: 194 (init) -> 194 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Factory:refineryBlock: 199 (init) -> 199 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Silicon:redstoneChipset: 4111 (init) -> 4111 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipepowersandstone: 4152 (init) -> 4152 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Applying holder lookups
+[22:29:08] [Server thread/INFO] [FML/]: Holder lookups applied
+[22:29:08] [Server thread/ERROR] [FML/]: The fluid Forge:lava specified as default is not present - it will be reverted to default BuildCraft|Energy:lava
+[22:29:08] [Server thread/ERROR] [FML/]: The fluid Forge:water specified as default is not present - it will be reverted to default BuildCraft|Energy:water
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTCORE_ETERNALSPRING with ID 165.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTCORE_BUILDTOOLBLOCK with ID 166.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTCORE_ENGINEBLOCK with ID 167.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTCORE_MARKERBLOCK with ID 168.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTCORE_PATHMARKERBLOCK with ID 169.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTBUILDERS_MACHINEBLOCK with ID 176.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTBUILDERS_FILLERBLOCK with ID 177.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTBUILDERS_FRAMEBLOCK with ID 178.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTBUILDERS_BUILDERBLOCK with ID 179.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTBUILDERS_ARCHITECTBLOCK with ID 180.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTBUILDERS_LIBRARYBLOCK with ID 181.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTBUILDERS_CONSTRUCTIONMARKERBLOCK with ID 182.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTROBOTICS_ZONEPLAN with ID 183.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTROBOTICS_REQUESTER with ID 184.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTSILICON_LASERBLOCK with ID 185.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTSILICON_LASERTABLEBLOCK with ID 186.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTSILICON_PACKAGERBLOCK with ID 187.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTENERGY_BLOCKOIL with ID 188.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTENERGY_BLOCKFUEL with ID 189.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTENERGY_BLOCKREDPLASMA with ID 190.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTTRANSPORT_FILTEREDBUFFERBLOCK with ID 191.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTTRANSPORT_PIPEBLOCK with ID 192.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTFACTORY_MININGWELLBLOCK with ID 193.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTFACTORY_PLAINPIPEBLOCK with ID 194.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTFACTORY_AUTOWORKBENCHBLOCK with ID 195.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTFACTORY_TANKBLOCK with ID 196.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTFACTORY_PUMPBLOCK with ID 197.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTFACTORY_FLOODGATEBLOCK with ID 198.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTFACTORY_REFINERYBLOCK with ID 199.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge block material BUILDCRAFTFACTORY_BLOCKHOPPER with ID 200.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTCORE_WRENCHITEM with ID 4096.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTCORE_MAPLOCATION with ID 4097.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTCORE_LIST with ID 4098.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTCORE_DEBUGGER with ID 4099.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTCORE_WOODENGEARITEM with ID 4100.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTCORE_STONEGEARITEM with ID 4101.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTCORE_IRONGEARITEM with ID 4102.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTCORE_GOLDGEARITEM with ID 4103.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTCORE_DIAMONDGEARITEM with ID 4104.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTCORE_PAINTBRUSH with ID 4105.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTBUILDERS_TEMPLATEITEM with ID 4106.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTBUILDERS_BLUEPRINTITEM with ID 4107.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTROBOTICS_ROBOT with ID 4108.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTROBOTICS_ROBOTSTATION with ID 4109.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTROBOTICS_REDSTONE_BOARD with ID 4110.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTSILICON_REDSTONECHIPSET with ID 4111.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTSILICON_PACKAGE with ID 4112.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTSILICON_REDSTONECRYSTAL with ID 4113.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTENERGY_BUCKETOIL with ID 4114.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTENERGY_BUCKETFUEL with ID 4115.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_PIPEWATERPROOF with ID 4116.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEITEMSWOOD with ID 4117.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEITEMSEMERALD with ID 4118.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEITEMSCOBBLESTONE with ID 4119.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEITEMSSTONE with ID 4120.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEITEMSQUARTZ with ID 4121.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEITEMSIRON with ID 4122.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEITEMSGOLD with ID 4123.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEITEMSDIAMOND with ID 4124.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEITEMSOBSIDIAN with ID 4125.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEITEMSLAPIS with ID 4126.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEITEMSDAIZULI with ID 4127.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEITEMSSANDSTONE with ID 4128.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEITEMSVOID with ID 4129.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEITEMSEMZULI with ID 4130.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEITEMSSTRIPES with ID 4131.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEITEMSCLAY with ID 4132.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEFLUIDSWOOD with ID 4133.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEFLUIDSCOBBLESTONE with ID 4134.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEFLUIDSSTONE with ID 4135.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEFLUIDSQUARTZ with ID 4136.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEFLUIDSIRON with ID 4137.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEFLUIDSGOLD with ID 4138.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEFLUIDSEMERALD with ID 4139.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEFLUIDSDIAMOND with ID 4140.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEFLUIDSSANDSTONE with ID 4141.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEFLUIDSVOID with ID 4142.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEFLUIDSCLAY with ID 4143.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEPOWERWOOD with ID 4144.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEPOWERCOBBLESTONE with ID 4145.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEPOWERSTONE with ID 4146.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEPOWERQUARTZ with ID 4147.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEPOWERIRON with ID 4148.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEPOWERGOLD with ID 4149.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEPOWERDIAMOND with ID 4150.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEPOWEREMERALD with ID 4151.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPEPOWERSANDSTONE with ID 4152.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_ITEMBUILDCRAFTPIPEPIPESTRUCTURECOBBLESTONE with ID 4153.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_PIPEWIRE with ID 4154.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_PIPEGATE with ID 4155.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_PIPEFACADE with ID 4156.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_PIPEPLUG with ID 4157.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_PIPELENS with ID 4158.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_PIPEPOWERADAPTER with ID 4159.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new Forge item material BUILDCRAFTTRANSPORT_GATECOPIER with ID 4160.
+[22:29:08] [Server thread/INFO] [/]: Adding biome mapping 126 Ocean Oil Field at BiomeBase[126]
+[22:29:08] [Server thread/INFO] [/]: Adding biome mapping 127 Desert Oil Field at BiomeBase[127]
+[22:29:08] [Server thread/INFO] [FML/]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@4b8a729a)
+[22:29:08] [Server thread/INFO] [FML/]: Injecting existing block and item data into this server instance
+[22:29:08] [Server thread/INFO] [FML/]: Injecting new block and item data into this server instance.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Builders:libraryBlock: 181 (init) -> 181 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:eternalSpring: 165 (init) -> 165 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Robotics:zonePlan: 183 (init) -> 183 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:markerBlock: 168 (init) -> 168 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Factory:autoWorkbenchBlock: 195 (init) -> 195 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:buildToolBlock: 166 (init) -> 166 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Builders:frameBlock: 178 (init) -> 178 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Builders:builderBlock: 179 (init) -> 179 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Silicon:laserBlock: 185 (init) -> 185 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:pipeBlock: 192 (init) -> 192 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Factory:miningWellBlock: 193 (init) -> 193 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Factory:pumpBlock: 197 (init) -> 197 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Energy:blockOil: 188 (init) -> 188 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Energy:blockRedPlasma: 190 (init) -> 190 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Factory:blockHopper: 200 (init) -> 200 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Factory:tankBlock: 196 (init) -> 196 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:pathMarkerBlock: 169 (init) -> 169 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:engineBlock: 167 (init) -> 167 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Builders:architectBlock: 180 (init) -> 180 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Silicon:laserTableBlock: 186 (init) -> 186 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Builders:fillerBlock: 177 (init) -> 177 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:filteredBufferBlock: 191 (init) -> 191 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Robotics:requester: 184 (init) -> 184 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Builders:constructionMarkerBlock: 182 (init) -> 182 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Factory:floodGateBlock: 198 (init) -> 198 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Energy:blockFuel: 189 (init) -> 189 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Builders:machineBlock: 176 (init) -> 176 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Factory:plainPipeBlock: 194 (init) -> 194 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Factory:refineryBlock: 199 (init) -> 199 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Silicon:packagerBlock: 187 (init) -> 187 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Builders:libraryBlock: 181 (init) -> 181 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:goldGearItem: 4103 (init) -> 4103 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipeitemsemzuli: 4130 (init) -> 4130 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Robotics:zonePlan: 183 (init) -> 183 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Robotics:robot: 4108 (init) -> 4108 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipeitemsdaizuli: 4127 (init) -> 4127 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Energy:bucketFuel: 4115 (init) -> 4115 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Factory:autoWorkbenchBlock: 195 (init) -> 195 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipefluidsquartz: 4136 (init) -> 4136 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:buildToolBlock: 166 (init) -> 166 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipeitemsemerald: 4118 (init) -> 4118 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipepowercobblestone: 4145 (init) -> 4145 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipepoweremerald: 4151 (init) -> 4151 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Robotics:redstone_board: 4110 (init) -> 4110 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Silicon:redstoneCrystal: 4113 (init) -> 4113 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipepowerstone: 4146 (init) -> 4146 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipepoweriron: 4148 (init) -> 4148 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Builders:builderBlock: 179 (init) -> 179 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Silicon:laserBlock: 185 (init) -> 185 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:pipePowerAdapter: 4159 (init) -> 4159 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:pipeWaterproof: 4116 (init) -> 4116 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipeitemsquartz: 4121 (init) -> 4121 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:pipeBlock: 192 (init) -> 192 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipefluidsiron: 4137 (init) -> 4137 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:diamondGearItem: 4104 (init) -> 4104 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Factory:miningWellBlock: 193 (init) -> 193 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipepowerquartz: 4147 (init) -> 4147 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipeitemswood: 4117 (init) -> 4117 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipeitemsobsidian: 4125 (init) -> 4125 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Factory:pumpBlock: 197 (init) -> 197 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:woodenGearItem: 4100 (init) -> 4100 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:pipePlug: 4157 (init) -> 4157 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Energy:blockOil: 188 (init) -> 188 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:paintbrush: 4105 (init) -> 4105 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipeitemsiron: 4122 (init) -> 4122 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:pathMarkerBlock: 169 (init) -> 169 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipeitemsdiamond: 4124 (init) -> 4124 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Builders:architectBlock: 180 (init) -> 180 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Silicon:laserTableBlock: 186 (init) -> 186 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:debugger: 4099 (init) -> 4099 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:pipeLens: 4158 (init) -> 4158 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipefluidssandstone: 4141 (init) -> 4141 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:pipeWire: 4154 (init) -> 4154 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipefluidsgold: 4138 (init) -> 4138 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipefluidsclay: 4143 (init) -> 4143 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:wrenchItem: 4096 (init) -> 4096 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Builders:templateItem: 4106 (init) -> 4106 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipeitemsstone: 4120 (init) -> 4120 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Energy:blockFuel: 189 (init) -> 189 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Builders:machineBlock: 176 (init) -> 176 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Silicon:packagerBlock: 187 (init) -> 187 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipeitemsclay: 4132 (init) -> 4132 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipefluidsvoid: 4142 (init) -> 4142 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:eternalSpring: 165 (init) -> 165 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipefluidsstone: 4135 (init) -> 4135 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipefluidsemerald: 4139 (init) -> 4139 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:markerBlock: 168 (init) -> 168 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipeitemsgold: 4123 (init) -> 4123 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Builders:frameBlock: 178 (init) -> 178 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:pipeFacade: 4156 (init) -> 4156 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipepowerwood: 4144 (init) -> 4144 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:gateCopier: 4160 (init) -> 4160 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:ironGearItem: 4102 (init) -> 4102 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:mapLocation: 4097 (init) -> 4097 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Silicon:package: 4112 (init) -> 4112 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Builders:blueprintItem: 4107 (init) -> 4107 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:stoneGearItem: 4101 (init) -> 4101 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:list: 4098 (init) -> 4098 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipestructurecobblestone: 4153 (init) -> 4153 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Energy:blockRedPlasma: 190 (init) -> 190 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipefluidscobblestone: 4134 (init) -> 4134 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Factory:blockHopper: 200 (init) -> 200 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Factory:tankBlock: 196 (init) -> 196 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:pipeGate: 4155 (init) -> 4155 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipefluidswood: 4133 (init) -> 4133 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:engineBlock: 167 (init) -> 167 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipepowerdiamond: 4150 (init) -> 4150 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipeitemssandstone: 4128 (init) -> 4128 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipeitemscobblestone: 4119 (init) -> 4119 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipeitemsstripes: 4131 (init) -> 4131 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Energy:bucketOil: 4114 (init) -> 4114 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipeitemslapis: 4126 (init) -> 4126 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipefluidsdiamond: 4140 (init) -> 4140 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Builders:fillerBlock: 177 (init) -> 177 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Robotics:robotStation: 4109 (init) -> 4109 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:filteredBufferBlock: 191 (init) -> 191 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Robotics:requester: 184 (init) -> 184 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipepowergold: 4149 (init) -> 4149 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipeitemsvoid: 4129 (init) -> 4129 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Builders:constructionMarkerBlock: 182 (init) -> 182 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Factory:floodGateBlock: 198 (init) -> 198 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Factory:plainPipeBlock: 194 (init) -> 194 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Factory:refineryBlock: 199 (init) -> 199 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Silicon:redstoneChipset: 4111 (init) -> 4111 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipepowersandstone: 4152 (init) -> 4152 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Applying holder lookups
+[22:29:08] [Server thread/INFO] [FML/]: Holder lookups applied
+[22:29:08] [Server thread/ERROR] [FML/]: The fluid Forge:lava specified as default is not present - it will be reverted to default BuildCraft|Energy:lava
+[22:29:08] [Server thread/ERROR] [FML/]: The fluid Forge:water specified as default is not present - it will be reverted to default BuildCraft|Energy:water
+[22:29:08] [Server thread/INFO] [FML/]: Loading dimension 1 (DIM1) (net.minecraft.server.dedicated.DedicatedServer@4b8a729a)
+[22:29:08] [Server thread/INFO] [FML/]: Injecting existing block and item data into this server instance
+[22:29:08] [Server thread/INFO] [FML/]: Injecting new block and item data into this server instance.
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Builders:libraryBlock: 181 (init) -> 181 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:eternalSpring: 165 (init) -> 165 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Robotics:zonePlan: 183 (init) -> 183 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:markerBlock: 168 (init) -> 168 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Factory:autoWorkbenchBlock: 195 (init) -> 195 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:buildToolBlock: 166 (init) -> 166 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Builders:frameBlock: 178 (init) -> 178 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Builders:builderBlock: 179 (init) -> 179 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Silicon:laserBlock: 185 (init) -> 185 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:pipeBlock: 192 (init) -> 192 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Factory:miningWellBlock: 193 (init) -> 193 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Factory:pumpBlock: 197 (init) -> 197 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Energy:blockOil: 188 (init) -> 188 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Energy:blockRedPlasma: 190 (init) -> 190 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Factory:blockHopper: 200 (init) -> 200 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Factory:tankBlock: 196 (init) -> 196 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:pathMarkerBlock: 169 (init) -> 169 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:engineBlock: 167 (init) -> 167 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Builders:architectBlock: 180 (init) -> 180 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Silicon:laserTableBlock: 186 (init) -> 186 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Builders:fillerBlock: 177 (init) -> 177 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:filteredBufferBlock: 191 (init) -> 191 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Robotics:requester: 184 (init) -> 184 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Builders:constructionMarkerBlock: 182 (init) -> 182 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Factory:floodGateBlock: 198 (init) -> 198 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Energy:blockFuel: 189 (init) -> 189 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Builders:machineBlock: 176 (init) -> 176 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Factory:plainPipeBlock: 194 (init) -> 194 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Factory:refineryBlock: 199 (init) -> 199 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Silicon:packagerBlock: 187 (init) -> 187 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Builders:libraryBlock: 181 (init) -> 181 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:goldGearItem: 4103 (init) -> 4103 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipeitemsemzuli: 4130 (init) -> 4130 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Robotics:zonePlan: 183 (init) -> 183 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Robotics:robot: 4108 (init) -> 4108 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipeitemsdaizuli: 4127 (init) -> 4127 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Energy:bucketFuel: 4115 (init) -> 4115 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Factory:autoWorkbenchBlock: 195 (init) -> 195 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipefluidsquartz: 4136 (init) -> 4136 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:buildToolBlock: 166 (init) -> 166 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipeitemsemerald: 4118 (init) -> 4118 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipepowercobblestone: 4145 (init) -> 4145 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipepoweremerald: 4151 (init) -> 4151 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Robotics:redstone_board: 4110 (init) -> 4110 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Silicon:redstoneCrystal: 4113 (init) -> 4113 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipepowerstone: 4146 (init) -> 4146 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipepoweriron: 4148 (init) -> 4148 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Builders:builderBlock: 179 (init) -> 179 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Silicon:laserBlock: 185 (init) -> 185 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:pipePowerAdapter: 4159 (init) -> 4159 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:pipeWaterproof: 4116 (init) -> 4116 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipeitemsquartz: 4121 (init) -> 4121 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:pipeBlock: 192 (init) -> 192 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipefluidsiron: 4137 (init) -> 4137 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:diamondGearItem: 4104 (init) -> 4104 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Factory:miningWellBlock: 193 (init) -> 193 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipepowerquartz: 4147 (init) -> 4147 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipeitemswood: 4117 (init) -> 4117 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipeitemsobsidian: 4125 (init) -> 4125 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Factory:pumpBlock: 197 (init) -> 197 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:woodenGearItem: 4100 (init) -> 4100 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:pipePlug: 4157 (init) -> 4157 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Energy:blockOil: 188 (init) -> 188 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:paintbrush: 4105 (init) -> 4105 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipeitemsiron: 4122 (init) -> 4122 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:pathMarkerBlock: 169 (init) -> 169 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipeitemsdiamond: 4124 (init) -> 4124 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Builders:architectBlock: 180 (init) -> 180 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Silicon:laserTableBlock: 186 (init) -> 186 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:debugger: 4099 (init) -> 4099 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:pipeLens: 4158 (init) -> 4158 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipefluidssandstone: 4141 (init) -> 4141 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:pipeWire: 4154 (init) -> 4154 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipefluidsgold: 4138 (init) -> 4138 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipefluidsclay: 4143 (init) -> 4143 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:wrenchItem: 4096 (init) -> 4096 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Builders:templateItem: 4106 (init) -> 4106 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipeitemsstone: 4120 (init) -> 4120 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Energy:blockFuel: 189 (init) -> 189 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Builders:machineBlock: 176 (init) -> 176 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Silicon:packagerBlock: 187 (init) -> 187 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipeitemsclay: 4132 (init) -> 4132 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipefluidsvoid: 4142 (init) -> 4142 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:eternalSpring: 165 (init) -> 165 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipefluidsstone: 4135 (init) -> 4135 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipefluidsemerald: 4139 (init) -> 4139 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:markerBlock: 168 (init) -> 168 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipeitemsgold: 4123 (init) -> 4123 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Builders:frameBlock: 178 (init) -> 178 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:pipeFacade: 4156 (init) -> 4156 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipepowerwood: 4144 (init) -> 4144 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:gateCopier: 4160 (init) -> 4160 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:ironGearItem: 4102 (init) -> 4102 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:mapLocation: 4097 (init) -> 4097 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Silicon:package: 4112 (init) -> 4112 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Builders:blueprintItem: 4107 (init) -> 4107 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:stoneGearItem: 4101 (init) -> 4101 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:list: 4098 (init) -> 4098 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipestructurecobblestone: 4153 (init) -> 4153 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Energy:blockRedPlasma: 190 (init) -> 190 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipefluidscobblestone: 4134 (init) -> 4134 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Factory:blockHopper: 200 (init) -> 200 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Factory:tankBlock: 196 (init) -> 196 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:pipeGate: 4155 (init) -> 4155 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipefluidswood: 4133 (init) -> 4133 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Core:engineBlock: 167 (init) -> 167 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipepowerdiamond: 4150 (init) -> 4150 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipeitemssandstone: 4128 (init) -> 4128 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipeitemscobblestone: 4119 (init) -> 4119 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipeitemsstripes: 4131 (init) -> 4131 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Energy:bucketOil: 4114 (init) -> 4114 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipeitemslapis: 4126 (init) -> 4126 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipefluidsdiamond: 4140 (init) -> 4140 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Builders:fillerBlock: 177 (init) -> 177 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Robotics:robotStation: 4109 (init) -> 4109 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:filteredBufferBlock: 191 (init) -> 191 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Robotics:requester: 184 (init) -> 184 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipepowergold: 4149 (init) -> 4149 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipeitemsvoid: 4129 (init) -> 4129 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Builders:constructionMarkerBlock: 182 (init) -> 182 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Factory:floodGateBlock: 198 (init) -> 198 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Factory:plainPipeBlock: 194 (init) -> 194 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Factory:refineryBlock: 199 (init) -> 199 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Silicon:redstoneChipset: 4111 (init) -> 4111 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Injected new block/item BuildCraft|Transport:item.buildcraftPipe.pipepowersandstone: 4152 (init) -> 4152 (map).
+[22:29:08] [Server thread/INFO] [FML/]: Applying holder lookups
+[22:29:08] [Server thread/INFO] [FML/]: Holder lookups applied
+[22:29:08] [Server thread/ERROR] [FML/]: The fluid Forge:lava specified as default is not present - it will be reverted to default BuildCraft|Energy:lava
+[22:29:08] [Server thread/ERROR] [FML/]: The fluid Forge:water specified as default is not present - it will be reverted to default BuildCraft|Energy:water
+[22:29:08] [Server thread/INFO] [FML/]: Loading dimension -1 (DIM-1) (net.minecraft.server.dedicated.DedicatedServer@4b8a729a)
+[22:29:09] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
+[22:29:09] [Server thread/WARN] [BuildCraft/BuildCraft|Core]: ############################################
+[22:29:09] [Server thread/WARN] [BuildCraft/BuildCraft|Core]: #                                          #
+[22:29:09] [Server thread/WARN] [BuildCraft/BuildCraft|Core]: #  Cauldron has been detected! Please keep #
+[22:29:09] [Server thread/WARN] [BuildCraft/BuildCraft|Core]: #  in mind that BuildCraft may NOT provide #
+[22:29:09] [Server thread/WARN] [BuildCraft/BuildCraft|Core]: # support to Cauldron users, as the mod is #
+[22:29:09] [Server thread/WARN] [BuildCraft/BuildCraft|Core]: # primarily tested without Bukkit/Spigot's #
+[22:29:09] [Server thread/WARN] [BuildCraft/BuildCraft|Core]: #    changes to the Minecraft internals.   #
+[22:29:09] [Server thread/WARN] [BuildCraft/BuildCraft|Core]: #                                          #
+[22:29:09] [Server thread/WARN] [BuildCraft/BuildCraft|Core]: #  Any lag caused by BuildCraft on top of  #
+[22:29:09] [Server thread/WARN] [BuildCraft/BuildCraft|Core]: #  Cauldron likely arises from workarounds #
+[22:29:09] [Server thread/WARN] [BuildCraft/BuildCraft|Core]: #  which we apply to make sure BuildCraft  #
+[22:29:09] [Server thread/WARN] [BuildCraft/BuildCraft|Core]: #  works properly with Cauldron installed. #
+[22:29:09] [Server thread/WARN] [BuildCraft/BuildCraft|Core]: #                                          #
+[22:29:09] [Server thread/WARN] [BuildCraft/BuildCraft|Core]: #     Thanks for your attention! ~ BC devs #
+[22:29:09] [Server thread/WARN] [BuildCraft/BuildCraft|Core]: #                                          #
+[22:29:09] [Server thread/WARN] [BuildCraft/BuildCraft|Core]: ############################################

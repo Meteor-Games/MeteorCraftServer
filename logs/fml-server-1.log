@@ -1,0 +1,99 @@
+[22:22:51] [main/INFO] [FML/]: Forge Mod Loader version 7.10.114.1388 for Minecraft 1.7.10 loading
+[22:22:52] [main/INFO] [FML/]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_391, running on Windows 11:amd64:10.0, installed at C:\Program Files\Java\jre-1.8
+[22:22:52] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:22:52] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[22:22:52] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:22:52] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:22:52] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:22:53] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:22:53] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[22:22:53] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.TerminalTweaker
+[22:22:53] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.TerminalTweaker
+[22:22:53] [main/INFO] [LaunchWrapper/]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[22:22:57] [Server thread/INFO] [MinecraftForge/]: Attempting early MinecraftForge initialization
+[22:22:57] [Server thread/INFO] [FML/]: MinecraftForge v10.13.3.1403 Initialized
+[22:22:57] [Server thread/INFO] [FML/]: Replaced 183 ore recipies
+[22:22:57] [Server thread/INFO] [FML/]: Preloading CrashReport classes
+[22:22:57] [Server thread/INFO] [FML/]: 	net.minecraft.world.World$1
+[22:22:57] [Server thread/INFO] [FML/]: 	net.minecraft.world.World$2
+[22:22:57] [Server thread/INFO] [FML/]: 	net.minecraft.world.World$3
+[22:22:57] [Server thread/INFO] [FML/]: 	net.minecraft.world.World$4
+[22:22:57] [Server thread/INFO] [FML/]: 	net.minecraft.world.chunk.Chunk$1
+[22:22:57] [Server thread/INFO] [FML/]: 	net.minecraft.crash.CrashReportCategory$1
+[22:22:57] [Server thread/INFO] [FML/]: 	net.minecraft.crash.CrashReportCategory$2
+[22:22:57] [Server thread/INFO] [FML/]: 	net.minecraft.crash.CrashReportCategory$3
+[22:22:57] [Server thread/INFO] [FML/]: 	net.minecraft.entity.Entity$1
+[22:22:57] [Server thread/INFO] [FML/]: 	net.minecraft.entity.Entity$2
+[22:22:57] [Server thread/INFO] [FML/]: 	net.minecraft.entity.EntityTracker$1
+[22:22:57] [Server thread/INFO] [FML/]: 	net.minecraft.world.gen.layer.GenLayer$1
+[22:22:57] [Server thread/INFO] [FML/]: 	net.minecraft.world.gen.layer.GenLayer$2
+[22:22:57] [Server thread/INFO] [FML/]: 	net.minecraft.entity.player.InventoryPlayer$1
+[22:22:57] [Server thread/INFO] [FML/]: 	net.minecraft.world.gen.structure.MapGenStructure$1
+[22:22:57] [Server thread/INFO] [FML/]: 	net.minecraft.world.gen.structure.MapGenStructure$2
+[22:22:57] [Server thread/INFO] [FML/]: 	net.minecraft.world.gen.structure.MapGenStructure$3
+[22:22:57] [Server thread/INFO] [FML/]: 	net.minecraft.server.MinecraftServer$3
+[22:22:57] [Server thread/INFO] [FML/]: 	net.minecraft.server.MinecraftServer$4
+[22:22:57] [Server thread/INFO] [FML/]: 	net.minecraft.server.MinecraftServer$5
+[22:22:57] [Server thread/INFO] [FML/]: 	net.minecraft.nbt.NBTTagCompound$1
+[22:22:57] [Server thread/INFO] [FML/]: 	net.minecraft.nbt.NBTTagCompound$2
+[22:22:57] [Server thread/INFO] [FML/]: 	net.minecraft.network.NetHandlerPlayServer$2
+[22:22:57] [Server thread/INFO] [FML/]: 	net.minecraft.network.NetworkSystem$3
+[22:22:57] [Server thread/INFO] [FML/]: 	net.minecraft.tileentity.TileEntity$1
+[22:22:57] [Server thread/INFO] [FML/]: 	net.minecraft.tileentity.TileEntity$2
+[22:22:57] [Server thread/INFO] [FML/]: 	net.minecraft.tileentity.TileEntity$3
+[22:22:57] [Server thread/INFO] [FML/]: 	net.minecraft.world.storage.WorldInfo$1
+[22:22:57] [Server thread/INFO] [FML/]: 	net.minecraft.world.storage.WorldInfo$2
+[22:22:57] [Server thread/INFO] [FML/]: 	net.minecraft.world.storage.WorldInfo$3
+[22:22:57] [Server thread/INFO] [FML/]: 	net.minecraft.world.storage.WorldInfo$4
+[22:22:57] [Server thread/INFO] [FML/]: 	net.minecraft.world.storage.WorldInfo$5
+[22:22:57] [Server thread/INFO] [FML/]: 	net.minecraft.world.storage.WorldInfo$6
+[22:22:57] [Server thread/INFO] [FML/]: 	net.minecraft.world.storage.WorldInfo$7
+[22:22:57] [Server thread/INFO] [FML/]: 	net.minecraft.world.storage.WorldInfo$8
+[22:22:57] [Server thread/INFO] [FML/]: 	net.minecraft.world.storage.WorldInfo$9
+[22:22:57] [Server thread/INFO] [FML/]: 	net.minecraft.server.dedicated.DedicatedServer$3
+[22:22:57] [Server thread/INFO] [FML/]: 	net.minecraft.server.dedicated.DedicatedServer$4
+[22:22:57] [Server thread/INFO] [MinecraftForge/]: Completed early MinecraftForge initialization
+[22:22:57] [Server thread/INFO] [FML/]: Found 0 mods from the command line. Injecting into mod discoverer
+[22:22:57] [Server thread/INFO] [FML/]: Searching C:\Users\Marcos\Documents\GitHub\MeteorCraftServer\mods for mods
+[22:22:57] [Server thread/INFO] [FML/]: Forge Mod Loader has identified 3 mods to load
+[22:22:57] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge] at CLIENT
+[22:22:57] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge] at SERVER
+[22:22:58] [Server thread/INFO] [FML/]: Processing ObjectHolder annotations
+[22:22:58] [Server thread/INFO] [FML/]: Found 341 ObjectHolder annotations
+[22:22:58] [Server thread/INFO] [FML/Forge]: Configured a dormant chunk cache size of 0
+[22:22:58] [Server thread/INFO] [FML/]: Applying holder lookups
+[22:22:58] [Server thread/INFO] [FML/]: Holder lookups applied
+[22:22:58] [Server thread/INFO] [Minecraft/]: This server is running Cauldron-MCPC-Plus version KCauldron-1.7.10-4.1403.65 (MC: 1.7.10) (Implementing API version 1.7.10-R0.1-SNAPSHOT)
+[22:22:58] [Server thread/WARN] [FML/]: =============================================================
+[22:22:58] [Server thread/WARN] [FML/]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[22:22:58] [Server thread/WARN] [FML/]: Offendor: org/spigotmc/RestartCommand.restart()V
+[22:22:58] [Server thread/WARN] [FML/]: Use FMLCommonHandler.exitJava instead
+[22:22:58] [Server thread/WARN] [FML/]: =============================================================
+[22:22:58] [Server thread/INFO] [/]: Server Ping Player Sample Count: 12
+[22:22:58] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
+[22:22:58] [Forge Version Check/WARN] [/Forge]: com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1
+[22:22:58] [Forge Version Check/WARN] [/Forge]: 	at com.google.gson.Gson.fromJson(Gson.java:815)
+[22:22:58] [Forge Version Check/WARN] [/Forge]: 	at com.google.gson.Gson.fromJson(Gson.java:768)
+[22:22:58] [Forge Version Check/WARN] [/Forge]: 	at com.google.gson.Gson.fromJson(Gson.java:717)
+[22:22:58] [Forge Version Check/WARN] [/Forge]: 	at com.google.gson.Gson.fromJson(Gson.java:689)
+[22:22:58] [Forge Version Check/WARN] [/Forge]: 	at net.minecraftforge.common.ForgeVersion$1.run(ForgeVersion.java:94)
+[22:22:58] [Forge Version Check/WARN] [/Forge]: Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1
+[22:22:58] [Forge Version Check/WARN] [/Forge]: 	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:374)
+[22:22:58] [Forge Version Check/WARN] [/Forge]: 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:183)
+[22:22:58] [Forge Version Check/WARN] [/Forge]: 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145)
+[22:22:58] [Forge Version Check/WARN] [/Forge]: 	at com.google.gson.Gson.fromJson(Gson.java:803)
+[22:22:58] [Forge Version Check/WARN] [/Forge]: 	... 4 more
+[22:22:58] [Server thread/INFO] [FML/]: Forge Mod Loader has successfully loaded 3 mods
+[22:22:58] [Server thread/INFO] [FML/]: Injecting existing block and item data into this server instance
+[22:22:58] [Server thread/INFO] [FML/]: Applying holder lookups
+[22:22:58] [Server thread/INFO] [FML/]: Holder lookups applied
+[22:22:59] [Server thread/INFO] [FML/]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@7e758872)
+[22:22:59] [Server thread/INFO] [FML/]: Injecting existing block and item data into this server instance
+[22:22:59] [Server thread/INFO] [FML/]: Applying holder lookups
+[22:22:59] [Server thread/INFO] [FML/]: Holder lookups applied
+[22:22:59] [Server thread/INFO] [FML/]: Loading dimension 1 (DIM1) (net.minecraft.server.dedicated.DedicatedServer@7e758872)
+[22:22:59] [Server thread/INFO] [FML/]: Injecting existing block and item data into this server instance
+[22:22:59] [Server thread/INFO] [FML/]: Applying holder lookups
+[22:22:59] [Server thread/INFO] [FML/]: Holder lookups applied
+[22:22:59] [Server thread/INFO] [FML/]: Loading dimension -1 (DIM-1) (net.minecraft.server.dedicated.DedicatedServer@7e758872)
+[22:22:59] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
