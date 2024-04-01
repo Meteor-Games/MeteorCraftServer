@@ -1,1 +1,0 @@
-java -Xmx4G -Xms2G -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalPacing -XX:ParallelGCThreads=8 -XX:+AggressiveOpts -jar kcauldron.jar nogui
