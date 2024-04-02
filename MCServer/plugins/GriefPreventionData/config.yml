@@ -14,13 +14,13 @@ GriefPrevention:
   Claims:
     Mode:
       DIM-112: Disabled
-      DIM-1: Disabled
       DIM-39: Disabled
       DIM-19: Disabled
+      DIM-1: Disabled
       DIM-38: Disabled
+      DIM1: Disabled
       world: Survival
       DIM-17: Disabled
-      DIM1: Disabled
       DIM-100: Disabled
       DIM-37: Disabled
       DIM-42: Disabled

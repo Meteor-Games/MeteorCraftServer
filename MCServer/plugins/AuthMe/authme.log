@@ -305,3 +305,64 @@
 [04-01 21:24:56]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
 [04-01 21:24:56]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
 [04-01 21:24:56]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[04-01 21:47:12]: [INFO] SQLite driver loaded
+[04-01 21:47:12]: [INFO] SQLite Setup finished
+[04-01 21:47:13]: [INFO] Hooked into Vault!
+[04-01 21:47:13]: [WARN] Could not download GeoLiteAPI database [UnknownHostException]: geolite.maxmind.com
+[04-01 21:47:13]: java.net.UnknownHostException: geolite.maxmind.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at sun.net.NetworkClient.doConnect(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.<init>(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection$6.run(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection$6.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.AccessController.doPrivilegedWithCombiner(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source)
+	at fr.xephi.authme.service.GeoIpService$1.run(GeoIpService.java:92)
+	at java.lang.Thread.run(Unknown Source)
+
+[04-01 21:47:13]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[04-01 21:47:13]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[04-01 21:47:13]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[04-01 21:47:13]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[04-01 21:52:07]: [INFO] SQLite driver loaded
+[04-01 21:52:07]: [INFO] SQLite Setup finished
+[04-01 21:52:07]: [INFO] Hooked into Vault!
+[04-01 21:52:08]: [WARN] Could not download GeoLiteAPI database [UnknownHostException]: geolite.maxmind.com
+[04-01 21:52:08]: java.net.UnknownHostException: geolite.maxmind.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at sun.net.NetworkClient.doConnect(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.<init>(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection$6.run(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection$6.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.AccessController.doPrivilegedWithCombiner(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source)
+	at fr.xephi.authme.service.GeoIpService$1.run(GeoIpService.java:92)
+	at java.lang.Thread.run(Unknown Source)
+
+[04-01 21:52:08]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[04-01 21:52:08]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[04-01 21:52:08]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[04-01 21:52:08]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[04-01 23:42:38]: [FINE] NexG4mer logged in!

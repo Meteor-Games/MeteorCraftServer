@@ -22,27 +22,27 @@ commands:
   tab-complete: true
   log: true
 settings:
+  bungeecord: false
   fullMatchRate: 10
   player-shuffle: 0
-  bungeecord: false
+  late-bind: false
   timeout-time: 90
   restart-on-crash: true
   restart-script: ./start.sh
   netty-threads: -1
   sample-count: 12
-  late-bind: false
 stats:
   disable-saving: false
   forced-stats: {}
 world-settings:
   default:
     verbose: false
+    arrow-despawn-rate: 1200
     chunks-per-tick: 650
     clear-tick-list: false
-    item-despawn-rate: 6000
-    arrow-despawn-rate: 1200
-    enable-zombie-pigmen-portal-spawns: true
-    zombie-aggressive-towards-villager: true
+    merge-radius:
+      exp: 3.0
+      item: 2.5
     use-async-lighting: true
     entity-tracking-range:
       players: 48
@@ -50,14 +50,24 @@ world-settings:
       monsters: 48
       misc: 32
       other: 64
-    view-distance: 10
-    merge-radius:
-      exp: 3.0
-      item: 2.5
     ticks-per:
       hopper-transfer: 8
       hopper-check: 8
+    random-light-updates: false
     save-structure-info: true
+    entity-activation-range:
+      animals: 32
+      monsters: 32
+      misc: 16
+    growth:
+      cactus-modifier: 100
+      cane-modifier: 100
+      melon-modifier: 100
+      mushroom-modifier: 100
+      pumpkin-modifier: 100
+      sapling-modifier: 100
+      wheat-modifier: 100
+    nerf-spawner-mobs: false
     anti-xray:
       enabled: true
       engine-mode: 1
@@ -78,24 +88,14 @@ world-settings:
       replace-blocks:
       - 1
       - 5
-    max-bulk-chunks: 5
+    max-tnt-per-tick: 100
     max-tick-time:
       tile: 50
       entity: 50
-    random-light-updates: false
-    nerf-spawner-mobs: false
-    entity-activation-range:
-      animals: 32
-      monsters: 32
-      misc: 16
-    growth:
-      cactus-modifier: 100
-      cane-modifier: 100
-      melon-modifier: 100
-      mushroom-modifier: 100
-      pumpkin-modifier: 100
-      sapling-modifier: 100
-      wheat-modifier: 100
-    max-tnt-per-tick: 100
-    max-entity-collisions: 8
+    max-bulk-chunks: 5
+    item-despawn-rate: 6000
+    view-distance: 10
     mob-spawn-range: 4
+    enable-zombie-pigmen-portal-spawns: true
+    zombie-aggressive-towards-villager: true
+    max-entity-collisions: 8

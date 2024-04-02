@@ -70,33 +70,33 @@ world-settings:
     allow-tnt-punishment: true
     infinite-water-source: true
     entity-despawn-immediate: false
-    worldgen-DraconicEvolution-DraconicWorldGenerator: true
-    worldgen-IC2-IC2: true
-    worldgen-harvestcraft-WorldGenPamSalt: true
-    worldgen-netherlicious-WorldgenNetherMineable: true
-    worldgen-magicalcrops-WorldGenEssenceNether: true
-    worldgen-harvestcraft-PamTreeGenerator: true
-    worldgen-chisel-GeneratorChisel: true
-    worldgen-harvestcraft-PamGardenGenerator: true
-    worldgen-CoFHCore-WorldHandler: true
-    worldgen-ExtraUtilities-WorldGenEnderLillies: true
-    worldgen-TConstruct-TBaseWorldGenerator: true
-    worldgen-Roguelike-DungeonGenerator: true
-    worldgen-Thaumcraft-ThaumcraftWorldGenerator: true
-    worldgen-Mystcraft-MystWorldGenerator: true
-    worldgen-evernifeworldrpg-WorldGenerator: true
-    worldgen-TConstruct-SlimeIslandGen: true
-    worldgen-ImmersiveEngineering-IEWorldGen: true
-    worldgen-netherlicious-NetherPortalGen: true
-    worldgen-EnergyAdditions-EnergyOreGenerator: true
-    worldgen-magicalcrops-WorldGenEssenceEnd: true
     worldgen-Forestry-WorldGenerator: true
-    worldgen-BigReactors-BRWorldGenerator: true
-    worldgen-harvestcraft-PamBeeGenerator: true
-    worldgen-magicalcrops-WorldGenEssence: true
-    worldgen-appliedenergistics2-MeteoriteWorldGen: true
-    worldgen-witchery-WitcheryWorldGenerator: true
     worldgen-appliedenergistics2-QuartzWorldGen: true
+    worldgen-EnergyAdditions-EnergyOreGenerator: true
+    worldgen-netherlicious-WorldgenNetherMineable: true
+    worldgen-harvestcraft-PamGardenGenerator: true
+    worldgen-ImmersiveEngineering-IEWorldGen: true
+    worldgen-witchery-WitcheryWorldGenerator: true
+    worldgen-harvestcraft-WorldGenPamSalt: true
+    worldgen-BigReactors-BRWorldGenerator: true
+    worldgen-Roguelike-DungeonGenerator: true
+    worldgen-netherlicious-NetherPortalGen: true
+    worldgen-appliedenergistics2-MeteoriteWorldGen: true
+    worldgen-harvestcraft-PamTreeGenerator: true
+    worldgen-IC2-IC2: true
+    worldgen-Thaumcraft-ThaumcraftWorldGenerator: true
+    worldgen-ExtraUtilities-WorldGenEnderLillies: true
+    worldgen-magicalcrops-WorldGenEssence: true
+    worldgen-TConstruct-TBaseWorldGenerator: true
+    worldgen-magicalcrops-WorldGenEssenceNether: true
+    worldgen-harvestcraft-PamBeeGenerator: true
+    worldgen-evernifeworldrpg-WorldGenerator: true
+    worldgen-chisel-GeneratorChisel: true
+    worldgen-DraconicEvolution-DraconicWorldGenerator: true
+    worldgen-Mystcraft-MystWorldGenerator: true
+    worldgen-CoFHCore-WorldHandler: true
+    worldgen-magicalcrops-WorldGenEssenceEnd: true
+    worldgen-TConstruct-SlimeIslandGen: true
   max-players-visible: -1
 plugin-settings:
   default:

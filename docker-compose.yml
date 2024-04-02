@@ -1,0 +1,28 @@
+version: '3.8'
+
+services:
+  servidor:
+    build:
+      context: ./MCServer
+      dockerfile: .docker/Dockerfile
+    ports:
+      - "5173:5173"
+    stdin_open: true
+  postgres:
+    image: postgres:latest
+    environment:
+      POSTGRES_USER: minecraft_server
+      POSTGRES_PASSWORD: wYTO0nTonmDaKyq
+      POSTGRES_DB: minecraft_server
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    networks:
+      - internal
+
+volumes:
+  postgres_data:
+
+networks:
+  internal:
