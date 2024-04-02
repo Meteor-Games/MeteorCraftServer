@@ -70,16 +70,33 @@ world-settings:
     allow-tnt-punishment: true
     infinite-water-source: true
     entity-despawn-immediate: false
-    worldgen-Roguelike-DungeonGenerator: true
-    worldgen-appliedenergistics2-QuartzWorldGen: true
-    worldgen-Mystcraft-MystWorldGenerator: true
-    worldgen-TConstruct-TBaseWorldGenerator: true
-    worldgen-TConstruct-SlimeIslandGen: true
-    worldgen-EnergyAdditions-EnergyOreGenerator: true
-    worldgen-CoFHCore-WorldHandler: true
-    worldgen-appliedenergistics2-MeteoriteWorldGen: true
+    worldgen-DraconicEvolution-DraconicWorldGenerator: true
     worldgen-IC2-IC2: true
+    worldgen-harvestcraft-WorldGenPamSalt: true
+    worldgen-netherlicious-WorldgenNetherMineable: true
+    worldgen-magicalcrops-WorldGenEssenceNether: true
+    worldgen-harvestcraft-PamTreeGenerator: true
     worldgen-chisel-GeneratorChisel: true
+    worldgen-harvestcraft-PamGardenGenerator: true
+    worldgen-CoFHCore-WorldHandler: true
+    worldgen-ExtraUtilities-WorldGenEnderLillies: true
+    worldgen-TConstruct-TBaseWorldGenerator: true
+    worldgen-Roguelike-DungeonGenerator: true
+    worldgen-Thaumcraft-ThaumcraftWorldGenerator: true
+    worldgen-Mystcraft-MystWorldGenerator: true
+    worldgen-evernifeworldrpg-WorldGenerator: true
+    worldgen-TConstruct-SlimeIslandGen: true
+    worldgen-ImmersiveEngineering-IEWorldGen: true
+    worldgen-netherlicious-NetherPortalGen: true
+    worldgen-EnergyAdditions-EnergyOreGenerator: true
+    worldgen-magicalcrops-WorldGenEssenceEnd: true
+    worldgen-Forestry-WorldGenerator: true
+    worldgen-BigReactors-BRWorldGenerator: true
+    worldgen-harvestcraft-PamBeeGenerator: true
+    worldgen-magicalcrops-WorldGenEssence: true
+    worldgen-appliedenergistics2-MeteoriteWorldGen: true
+    worldgen-witchery-WitcheryWorldGenerator: true
+    worldgen-appliedenergistics2-QuartzWorldGen: true
   max-players-visible: -1
 plugin-settings:
   default:
@@ -117,10 +134,24 @@ world-environment-settings:
     keep-world-loaded: false
   storage:
     keep-world-loaded: false
+  endoftime:
+    keep-world-loaded: true
+  underdark:
+    keep-world-loaded: false
   myst:
+    keep-world-loaded: false
+  outer:
     keep-world-loaded: false
   wyvernend:
     keep-world-loaded: true
+  bedrock:
+    keep-world-loaded: false
+  dreamworld:
+    keep-world-loaded: false
+  torment:
+    keep-world-loaded: false
+  mirror:
+    keep-world-loaded: false
   mystdummy:
     keep-world-loaded: true
     enabled: true

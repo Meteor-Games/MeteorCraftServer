@@ -63,3 +63,17 @@ world-settings:
     enabled: true
   wyvernend:
     enabled: true
+  underdark:
+    enabled: true
+  dreamworld:
+    enabled: true
+  torment:
+    enabled: true
+  mirror:
+    enabled: true
+  outer:
+    enabled: true
+  bedrock:
+    enabled: true
+  endoftime:
+    enabled: true

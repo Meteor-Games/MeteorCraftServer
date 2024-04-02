@@ -1,15 +1,29 @@
 GriefPrevention:
   SeaLevelOverrides:
     world: -1
+    DIM-100: -1
+    DIM-37: -1
+    DIM-38: -1
+    DIM-39: -1
     DIM-17: -1
-    DIM1: -1
+    DIM-42: -1
+    DIM-19: -1
+    DIM-112: -1
     DIM-1: -1
+    DIM1: -1
   Claims:
     Mode:
+      DIM-112: Disabled
       DIM-1: Disabled
+      DIM-39: Disabled
+      DIM-19: Disabled
+      DIM-38: Disabled
       world: Survival
       DIM-17: Disabled
       DIM1: Disabled
+      DIM-100: Disabled
+      DIM-37: Disabled
+      DIM-42: Disabled
     PreventTheft: true
     ProtectCreatures: true
     PreventButtonsSwitches: true
